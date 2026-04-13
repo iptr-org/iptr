@@ -4537,48 +4537,6 @@
       "visible": false
     },
     {
-      "id": 376,
-      "flag": "https://countryflagsapi.com/svg/il",
-      "code": {
-        "alpha2": "IL",
-        "alpha3": "ISR",
-        "dial": ""
-      },
-      "name": {
-        "ar": "إسرائيل",
-        "bg": "Израел",
-        "cs": "Izrael",
-        "da": "Israel",
-        "de": "Israel",
-        "el": "Ισραήλ",
-        "en": "Israel",
-        "eo": "Israelo",
-        "es": "Israel",
-        "et": "Iisrael",
-        "eu": "Israel",
-        "fi": "Israel",
-        "fr": "Israël",
-        "hu": "Izrael",
-        "hy": "Իսրայել",
-        "it": "Israele",
-        "ja": "イスラエル",
-        "ko": "이스라엘",
-        "lt": "Izraelis",
-        "nl": "Israël",
-        "no": "Israel",
-        "pl": "Izrael",
-        "pt": "Israel",
-        "ro": "Israel",
-        "ru": "Израиль",
-        "sk": "Izrael",
-        "sv": "Israel",
-        "th": "อิสราเอล",
-        "uk": "Ізраїль",
-        "zh": "以色列"
-      },
-      "visible": false
-    },
-    {
       "id": 380,
       "flag": "https://countryflagsapi.com/svg/it",
       "code": {
