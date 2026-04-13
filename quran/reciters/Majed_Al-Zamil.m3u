@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/zaml/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/zaml/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/zaml/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/zaml/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/zaml/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/zaml/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/zaml/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/zaml/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/zaml/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server9.mp3quran.net/zaml/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server9.mp3quran.net/zaml/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server9.mp3quran.net/zaml/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/zaml/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/zaml/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/zaml/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/zaml/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/zaml/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/zaml/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server9.mp3quran.net/zaml/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/zaml/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/zaml/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/zaml/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/zaml/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server9.mp3quran.net/zaml/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/zaml/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/zaml/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server9.mp3quran.net/zaml/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/zaml/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/zaml/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/zaml/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server9.mp3quran.net/zaml/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/zaml/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/zaml/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server9.mp3quran.net/zaml/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server9.mp3quran.net/zaml/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/zaml/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/zaml/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server9.mp3quran.net/zaml/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/zaml/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server9.mp3quran.net/zaml/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server9.mp3quran.net/zaml/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/zaml/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/zaml/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/zaml/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/zaml/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/zaml/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server9.mp3quran.net/zaml/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/zaml/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/zaml/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server9.mp3quran.net/zaml/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/zaml/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server9.mp3quran.net/zaml/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server9.mp3quran.net/zaml/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/zaml/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/zaml/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/zaml/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/zaml/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/zaml/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/zaml/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/zaml/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server9.mp3quran.net/zaml/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/zaml/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/zaml/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/zaml/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/zaml/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/zaml/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/zaml/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/zaml/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/zaml/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/zaml/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server9.mp3quran.net/zaml/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/zaml/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/zaml/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/zaml/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/zaml/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/zaml/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/zaml/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/zaml/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/zaml/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server9.mp3quran.net/zaml/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/zaml/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/zaml/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/zaml/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/zaml/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/zaml/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/zaml/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/zaml/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/zaml/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/zaml/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/zaml/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/zaml/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/zaml/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/zaml/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/zaml/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server9.mp3quran.net/zaml/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/zaml/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/zaml/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/zaml/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/zaml/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/zaml/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/zaml/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/zaml/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/zaml/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/zaml/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/zaml/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server9.mp3quran.net/zaml/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/zaml/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/zaml/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/zaml/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/zaml/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/zaml/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/zaml/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/zaml/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Zamil - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server9.mp3quran.net/zaml/114.mp3

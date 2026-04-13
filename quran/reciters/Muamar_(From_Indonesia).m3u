@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server6.mp3quran.net/muamr/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server6.mp3quran.net/muamr/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server6.mp3quran.net/muamr/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server6.mp3quran.net/muamr/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server6.mp3quran.net/muamr/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server6.mp3quran.net/muamr/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server6.mp3quran.net/muamr/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muamar (From Indonesia) - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server6.mp3quran.net/muamr/111.mp3

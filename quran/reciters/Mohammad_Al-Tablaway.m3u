@@ -1,0 +1,465 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",001 - Al-Fatihah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",002 - Al-Baqarah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",003 - Aal Imran
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",004 - An-Nisa'
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",005 - Al-Ma'idah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",006 - Al-An'am
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",007 - Al-A'raf
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",008 - Al-Anfal
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",009 - At-Taubah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",010 - Yunus
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",011 - Hood
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",012 - Yusuf
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",013 - Ar-Ra'd
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",014 - Ibrahim
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",015 - Al-Hijr
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",016 - An-Nahl
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",017 - Al-Isra
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",018 - Al-Kahf
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",019 - Maryam
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",020 - Ta­Ha
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",021 - Al-Anbiya'
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",022 - Al-Hajj
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",023 - Al-Mu'minun
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",024 - An-Nur
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",025 - Al-Furqan
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",026 - Ash-Shu'ara'
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",027 - An-Naml
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",028 - Al-Qasas
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",029 - Al-'Ankabut
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",030 - Ar­Room
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",031 - Luqman
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",032 - As­Sajdah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",033 - Al­Ahzab
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",034 - Saba'
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",035 - Fatir
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",036 - Ya­Sin
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",037 - As-Saffat
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",038 - Sad
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",039 - Az-Zumar
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",040 - Ghafir
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",041 - Fussilat
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",042 - Ash-Shura
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",043 - Az-Zukhruf
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",044 - Ad-Dukhan
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",045 - Al-Jathiya
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",046 - Al-Ahqaf
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",047 - Muhammad
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",048 - Al-Fath
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",049 - Al-Hujurat
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",050 - Qaf
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",051 - Az-Zariyat
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",052 - At-Tur
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",053 - An-Najm
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",054 - Al-Qamar
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",055 - Ar-Rahman
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",056 - Al-Waqi'ah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",057 - Al-Hadid
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",058 - Al-Mujadilah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",059 - Al-Hashr
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",060 - Al-Mumtahinah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",061 - As-Saff
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",062 - Al-Jumu'ah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",063 - Al-Munafiqun
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",064 - At-Taghabun
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",065 - At-Talaq
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",066 - At-Tahrim
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",067 - Al-Mulk
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",068 - Al-Qalam
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",069 - Al-Haqqah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",070 - Al-Ma'arij
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",071 - Nooh
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",072 - Al-Jinn
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",073 - Al-Muzzammil
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",074 - Al-Muddaththir
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",075 - Al-Qiyamah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",076 - Al-Insan
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",077 - Al-Mursalat
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",078 - An-Naba'
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",079 - An-Nazi'at
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",080 - Abasa
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",081 - At-Takwir
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",082 - Al-Infitar
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",083 - Al-Mutaffifin
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",084 - Al-Inshiqaq
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",085 - Al-Buruj
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",086 - At-Tariq
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",087 - Al-A'la
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",088 - Al-Ghashiyah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",089 - Al-Fajr
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",090 - Al-Balad
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",091 - Ash-Shams
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",092 - Al-Lail
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",093 - Ad-Duha
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",094 - Ash-Sharh
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",095 - At-Tin
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",096 - Al-'Alaq
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",097 - Al-Qadr
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",098 - Al-Baiyinah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",099 - Az-Zalzalah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",100 - Al-'Adiyat
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",101 - Al-Qari'ah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",102 - At-Takathur
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",103 - Al-'Asr
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",104 - Al-Humazah
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",105 - Al-Fil
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",106 - Quraish
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",107 - Al-Ma'un
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",108 - Al-Kauthar
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",109 - Al-Kafirun
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",110 - An-Nasr
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",111 - Al-Masad
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",112 - Al-Ikhlas
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",113 - Al-Falaq
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Almusshaf Al Mojawwad - Almusshaf Al Mojawwad",114 - An-Nas
+https://server12.mp3quran.net/tblawi/Al-Mojawwad/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server12.mp3quran.net/tblawi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server12.mp3quran.net/tblawi/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server12.mp3quran.net/tblawi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server12.mp3quran.net/tblawi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server12.mp3quran.net/tblawi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server12.mp3quran.net/tblawi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server12.mp3quran.net/tblawi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server12.mp3quran.net/tblawi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server12.mp3quran.net/tblawi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server12.mp3quran.net/tblawi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server12.mp3quran.net/tblawi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server12.mp3quran.net/tblawi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server12.mp3quran.net/tblawi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server12.mp3quran.net/tblawi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server12.mp3quran.net/tblawi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server12.mp3quran.net/tblawi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server12.mp3quran.net/tblawi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server12.mp3quran.net/tblawi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server12.mp3quran.net/tblawi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server12.mp3quran.net/tblawi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server12.mp3quran.net/tblawi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server12.mp3quran.net/tblawi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server12.mp3quran.net/tblawi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server12.mp3quran.net/tblawi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server12.mp3quran.net/tblawi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server12.mp3quran.net/tblawi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server12.mp3quran.net/tblawi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server12.mp3quran.net/tblawi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server12.mp3quran.net/tblawi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server12.mp3quran.net/tblawi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server12.mp3quran.net/tblawi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server12.mp3quran.net/tblawi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server12.mp3quran.net/tblawi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server12.mp3quran.net/tblawi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server12.mp3quran.net/tblawi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server12.mp3quran.net/tblawi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server12.mp3quran.net/tblawi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server12.mp3quran.net/tblawi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server12.mp3quran.net/tblawi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server12.mp3quran.net/tblawi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server12.mp3quran.net/tblawi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server12.mp3quran.net/tblawi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server12.mp3quran.net/tblawi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server12.mp3quran.net/tblawi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server12.mp3quran.net/tblawi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server12.mp3quran.net/tblawi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server12.mp3quran.net/tblawi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server12.mp3quran.net/tblawi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server12.mp3quran.net/tblawi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server12.mp3quran.net/tblawi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server12.mp3quran.net/tblawi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server12.mp3quran.net/tblawi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server12.mp3quran.net/tblawi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server12.mp3quran.net/tblawi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server12.mp3quran.net/tblawi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server12.mp3quran.net/tblawi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server12.mp3quran.net/tblawi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server12.mp3quran.net/tblawi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server12.mp3quran.net/tblawi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server12.mp3quran.net/tblawi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server12.mp3quran.net/tblawi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server12.mp3quran.net/tblawi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server12.mp3quran.net/tblawi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server12.mp3quran.net/tblawi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server12.mp3quran.net/tblawi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server12.mp3quran.net/tblawi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server12.mp3quran.net/tblawi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server12.mp3quran.net/tblawi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server12.mp3quran.net/tblawi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server12.mp3quran.net/tblawi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server12.mp3quran.net/tblawi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server12.mp3quran.net/tblawi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server12.mp3quran.net/tblawi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server12.mp3quran.net/tblawi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server12.mp3quran.net/tblawi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server12.mp3quran.net/tblawi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server12.mp3quran.net/tblawi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server12.mp3quran.net/tblawi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server12.mp3quran.net/tblawi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server12.mp3quran.net/tblawi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server12.mp3quran.net/tblawi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server12.mp3quran.net/tblawi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server12.mp3quran.net/tblawi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server12.mp3quran.net/tblawi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server12.mp3quran.net/tblawi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server12.mp3quran.net/tblawi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server12.mp3quran.net/tblawi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server12.mp3quran.net/tblawi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server12.mp3quran.net/tblawi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server12.mp3quran.net/tblawi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server12.mp3quran.net/tblawi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server12.mp3quran.net/tblawi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server12.mp3quran.net/tblawi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server12.mp3quran.net/tblawi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server12.mp3quran.net/tblawi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server12.mp3quran.net/tblawi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server12.mp3quran.net/tblawi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server12.mp3quran.net/tblawi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server12.mp3quran.net/tblawi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server12.mp3quran.net/tblawi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server12.mp3quran.net/tblawi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server12.mp3quran.net/tblawi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server12.mp3quran.net/tblawi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server12.mp3quran.net/tblawi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server12.mp3quran.net/tblawi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server12.mp3quran.net/tblawi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server12.mp3quran.net/tblawi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server12.mp3quran.net/tblawi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server12.mp3quran.net/tblawi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server12.mp3quran.net/tblawi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server12.mp3quran.net/tblawi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server12.mp3quran.net/tblawi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server12.mp3quran.net/tblawi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Al-Tablaway - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server12.mp3quran.net/tblawi/114.mp3

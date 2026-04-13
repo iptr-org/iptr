@@ -1,0 +1,41 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",019 - Maryam
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",031 - Luqman
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",050 - Qaf
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Abdelaziz sheim - Rewayat Warsh A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/112.mp3

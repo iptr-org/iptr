@@ -1,0 +1,1075 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",001 - Al-Fatihah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",002 - Al-Baqarah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",003 - Aal Imran
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",004 - An-Nisa'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",005 - Al-Ma'idah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",006 - Al-An'am
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",007 - Al-A'raf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",008 - Al-Anfal
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",009 - At-Taubah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",010 - Yunus
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",011 - Hood
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",012 - Yusuf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",013 - Ar-Ra'd
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",014 - Ibrahim
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",015 - Al-Hijr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",016 - An-Nahl
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",017 - Al-Isra
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",018 - Al-Kahf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",019 - Maryam
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",020 - Ta­Ha
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",021 - Al-Anbiya'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",022 - Al-Hajj
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",023 - Al-Mu'minun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",024 - An-Nur
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",025 - Al-Furqan
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",026 - Ash-Shu'ara'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",027 - An-Naml
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",028 - Al-Qasas
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",029 - Al-'Ankabut
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",030 - Ar­Room
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",031 - Luqman
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",032 - As­Sajdah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",033 - Al­Ahzab
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",034 - Saba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",035 - Fatir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",036 - Ya­Sin
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",037 - As-Saffat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",038 - Sad
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",039 - Az-Zumar
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",040 - Ghafir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",041 - Fussilat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",042 - Ash-Shura
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",043 - Az-Zukhruf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",044 - Ad-Dukhan
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",045 - Al-Jathiya
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",046 - Al-Ahqaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",047 - Muhammad
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",048 - Al-Fath
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",049 - Al-Hujurat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",050 - Qaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",051 - Az-Zariyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",052 - At-Tur
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",053 - An-Najm
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",054 - Al-Qamar
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",055 - Ar-Rahman
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",056 - Al-Waqi'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",057 - Al-Hadid
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",058 - Al-Mujadilah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",059 - Al-Hashr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",060 - Al-Mumtahinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",061 - As-Saff
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",062 - Al-Jumu'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",063 - Al-Munafiqun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",064 - At-Taghabun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",065 - At-Talaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",066 - At-Tahrim
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",067 - Al-Mulk
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",068 - Al-Qalam
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",069 - Al-Haqqah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",070 - Al-Ma'arij
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",071 - Nooh
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",072 - Al-Jinn
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",073 - Al-Muzzammil
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",074 - Al-Muddaththir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",075 - Al-Qiyamah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",076 - Al-Insan
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",077 - Al-Mursalat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",078 - An-Naba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",079 - An-Nazi'at
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",080 - Abasa
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",081 - At-Takwir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",082 - Al-Infitar
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",083 - Al-Mutaffifin
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",084 - Al-Inshiqaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",085 - Al-Buruj
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",086 - At-Tariq
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",087 - Al-A'la
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",088 - Al-Ghashiyah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",089 - Al-Fajr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",090 - Al-Balad
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",091 - Ash-Shams
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",092 - Al-Lail
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",093 - Ad-Duha
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",094 - Ash-Sharh
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",095 - At-Tin
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",096 - Al-'Alaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",097 - Al-Qadr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",098 - Al-Baiyinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",099 - Az-Zalzalah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",100 - Al-'Adiyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",101 - Al-Qari'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",102 - At-Takathur
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",103 - Al-'Asr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",104 - Al-Humazah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",105 - Al-Fil
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",106 - Quraish
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",107 - Al-Ma'un
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",108 - Al-Kauthar
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",109 - Al-Kafirun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",110 - An-Nasr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",111 - Al-Masad
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",112 - Al-Ikhlas
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",113 - Al-Falaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Ibn Thakwan A'n Ibn Amer - Murattal",114 - An-Nas
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",001 - Al-Fatihah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",002 - Al-Baqarah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",003 - Aal Imran
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",004 - An-Nisa'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",005 - Al-Ma'idah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",006 - Al-An'am
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",007 - Al-A'raf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",008 - Al-Anfal
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",009 - At-Taubah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",010 - Yunus
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",011 - Hood
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",012 - Yusuf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",013 - Ar-Ra'd
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",014 - Ibrahim
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",015 - Al-Hijr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",016 - An-Nahl
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",017 - Al-Isra
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",018 - Al-Kahf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",019 - Maryam
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",020 - Ta­Ha
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",021 - Al-Anbiya'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",022 - Al-Hajj
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",023 - Al-Mu'minun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",024 - An-Nur
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",025 - Al-Furqan
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",026 - Ash-Shu'ara'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",027 - An-Naml
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",028 - Al-Qasas
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",029 - Al-'Ankabut
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",030 - Ar­Room
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",031 - Luqman
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",032 - As­Sajdah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",033 - Al­Ahzab
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",034 - Saba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",035 - Fatir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",036 - Ya­Sin
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",037 - As-Saffat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",038 - Sad
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",039 - Az-Zumar
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",040 - Ghafir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",041 - Fussilat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",042 - Ash-Shura
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",043 - Az-Zukhruf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",044 - Ad-Dukhan
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",045 - Al-Jathiya
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",046 - Al-Ahqaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",047 - Muhammad
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",048 - Al-Fath
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",049 - Al-Hujurat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",050 - Qaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",051 - Az-Zariyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",052 - At-Tur
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",053 - An-Najm
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",054 - Al-Qamar
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",055 - Ar-Rahman
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",056 - Al-Waqi'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",057 - Al-Hadid
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",058 - Al-Mujadilah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",059 - Al-Hashr
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",060 - Al-Mumtahinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",061 - As-Saff
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",062 - Al-Jumu'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",063 - Al-Munafiqun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",064 - At-Taghabun
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",065 - At-Talaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",066 - At-Tahrim
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",067 - Al-Mulk
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",068 - Al-Qalam
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",069 - Al-Haqqah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",070 - Al-Ma'arij
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",071 - Nooh
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",072 - Al-Jinn
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",073 - Al-Muzzammil
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",074 - Al-Muddaththir
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",075 - Al-Qiyamah
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",076 - Al-Insan
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Sho'bah A'n Asim - Murattal",077 - Al-Mursalat
+https://server14.mp3quran.net/muftah_sultany/Rewayat_Sho-bah-A-n-Asim/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Hafs-A-n-Assem/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",001 - Al-Fatihah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",002 - Al-Baqarah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",003 - Aal Imran
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",004 - An-Nisa'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",005 - Al-Ma'idah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",006 - Al-An'am
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",007 - Al-A'raf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",008 - Al-Anfal
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",009 - At-Taubah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",010 - Yunus
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",011 - Hood
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",012 - Yusuf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",013 - Ar-Ra'd
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",014 - Ibrahim
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",015 - Al-Hijr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",016 - An-Nahl
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",017 - Al-Isra
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",018 - Al-Kahf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",019 - Maryam
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",020 - Ta­Ha
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",021 - Al-Anbiya'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",022 - Al-Hajj
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",023 - Al-Mu'minun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",024 - An-Nur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",025 - Al-Furqan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",026 - Ash-Shu'ara'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",027 - An-Naml
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",028 - Al-Qasas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",029 - Al-'Ankabut
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",030 - Ar­Room
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",031 - Luqman
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",032 - As­Sajdah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",033 - Al­Ahzab
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",034 - Saba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",035 - Fatir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",036 - Ya­Sin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",037 - As-Saffat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",038 - Sad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",039 - Az-Zumar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",040 - Ghafir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",041 - Fussilat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",042 - Ash-Shura
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",043 - Az-Zukhruf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",044 - Ad-Dukhan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",045 - Al-Jathiya
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",046 - Al-Ahqaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",047 - Muhammad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",048 - Al-Fath
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",049 - Al-Hujurat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",050 - Qaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",051 - Az-Zariyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",052 - At-Tur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",053 - An-Najm
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",054 - Al-Qamar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",055 - Ar-Rahman
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",056 - Al-Waqi'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",057 - Al-Hadid
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",058 - Al-Mujadilah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",059 - Al-Hashr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",060 - Al-Mumtahinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",061 - As-Saff
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",062 - Al-Jumu'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",063 - Al-Munafiqun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",064 - At-Taghabun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",065 - At-Talaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",066 - At-Tahrim
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",067 - Al-Mulk
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",068 - Al-Qalam
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",069 - Al-Haqqah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",070 - Al-Ma'arij
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",071 - Nooh
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",072 - Al-Jinn
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",073 - Al-Muzzammil
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",074 - Al-Muddaththir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",075 - Al-Qiyamah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",076 - Al-Insan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",077 - Al-Mursalat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",078 - An-Naba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",079 - An-Nazi'at
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",080 - Abasa
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",081 - At-Takwir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",082 - Al-Infitar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",083 - Al-Mutaffifin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",084 - Al-Inshiqaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",085 - Al-Buruj
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",086 - At-Tariq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",087 - Al-A'la
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",088 - Al-Ghashiyah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",089 - Al-Fajr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",090 - Al-Balad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",091 - Ash-Shams
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",092 - Al-Lail
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",093 - Ad-Duha
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",094 - Ash-Sharh
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",095 - At-Tin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",096 - Al-'Alaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",097 - Al-Qadr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",098 - Al-Baiyinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",099 - Az-Zalzalah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",100 - Al-'Adiyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",101 - Al-Qari'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",102 - At-Takathur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",103 - Al-'Asr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",104 - Al-Humazah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",105 - Al-Fil
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",106 - Quraish
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",107 - Al-Ma'un
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",108 - Al-Kauthar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",109 - Al-Kafirun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",110 - An-Nasr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",111 - Al-Masad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",112 - Al-Ikhlas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",113 - Al-Falaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",114 - An-Nas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-AlDorai-A-n-Al-Kisa-ai/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",001 - Al-Fatihah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",002 - Al-Baqarah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",003 - Aal Imran
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",004 - An-Nisa'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",005 - Al-Ma'idah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",006 - Al-An'am
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",007 - Al-A'raf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",008 - Al-Anfal
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",009 - At-Taubah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",010 - Yunus
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",011 - Hood
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",012 - Yusuf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",013 - Ar-Ra'd
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",014 - Ibrahim
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",015 - Al-Hijr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",016 - An-Nahl
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",017 - Al-Isra
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",018 - Al-Kahf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",019 - Maryam
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",020 - Ta­Ha
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",021 - Al-Anbiya'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",022 - Al-Hajj
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",023 - Al-Mu'minun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",024 - An-Nur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",025 - Al-Furqan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",026 - Ash-Shu'ara'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",027 - An-Naml
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",028 - Al-Qasas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",029 - Al-'Ankabut
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",030 - Ar­Room
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",031 - Luqman
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",032 - As­Sajdah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",033 - Al­Ahzab
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",034 - Saba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",035 - Fatir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",036 - Ya­Sin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",037 - As-Saffat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",038 - Sad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",039 - Az-Zumar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",040 - Ghafir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",041 - Fussilat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",042 - Ash-Shura
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",043 - Az-Zukhruf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",044 - Ad-Dukhan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",045 - Al-Jathiya
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",046 - Al-Ahqaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",047 - Muhammad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",048 - Al-Fath
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",049 - Al-Hujurat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",050 - Qaf
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",051 - Az-Zariyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",052 - At-Tur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",053 - An-Najm
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",054 - Al-Qamar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",055 - Ar-Rahman
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",056 - Al-Waqi'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",057 - Al-Hadid
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",058 - Al-Mujadilah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",059 - Al-Hashr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",060 - Al-Mumtahinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",061 - As-Saff
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",062 - Al-Jumu'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",063 - Al-Munafiqun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",064 - At-Taghabun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",065 - At-Talaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",066 - At-Tahrim
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",067 - Al-Mulk
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",068 - Al-Qalam
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",069 - Al-Haqqah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",070 - Al-Ma'arij
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",071 - Nooh
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",072 - Al-Jinn
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",073 - Al-Muzzammil
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",074 - Al-Muddaththir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",075 - Al-Qiyamah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",076 - Al-Insan
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",077 - Al-Mursalat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",078 - An-Naba'
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",079 - An-Nazi'at
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",080 - Abasa
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",081 - At-Takwir
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",082 - Al-Infitar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",083 - Al-Mutaffifin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",084 - Al-Inshiqaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",085 - Al-Buruj
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",086 - At-Tariq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",087 - Al-A'la
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",088 - Al-Ghashiyah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",089 - Al-Fajr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",090 - Al-Balad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",091 - Ash-Shams
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",092 - Al-Lail
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",093 - Ad-Duha
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",094 - Ash-Sharh
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",095 - At-Tin
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",096 - Al-'Alaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",097 - Al-Qadr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",098 - Al-Baiyinah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",099 - Az-Zalzalah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",100 - Al-'Adiyat
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",101 - Al-Qari'ah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",102 - At-Takathur
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",103 - Al-'Asr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",104 - Al-Humazah
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",105 - Al-Fil
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",106 - Quraish
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",107 - Al-Ma'un
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",108 - Al-Kauthar
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",109 - Al-Kafirun
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",110 - An-Nasr
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",111 - Al-Masad
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",112 - Al-Ikhlas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",113 - Al-Falaq
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Muftah Alsaltany - Rewayat Aldori A'n Abi Amr - Murattal",114 - An-Nas
+https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/114.mp3

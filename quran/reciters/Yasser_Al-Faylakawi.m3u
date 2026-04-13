@@ -1,0 +1,185 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server6.mp3quran.net/fyl/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server6.mp3quran.net/fyl/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server6.mp3quran.net/fyl/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server6.mp3quran.net/fyl/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server6.mp3quran.net/fyl/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server6.mp3quran.net/fyl/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server6.mp3quran.net/fyl/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server6.mp3quran.net/fyl/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server6.mp3quran.net/fyl/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server6.mp3quran.net/fyl/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server6.mp3quran.net/fyl/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server6.mp3quran.net/fyl/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server6.mp3quran.net/fyl/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server6.mp3quran.net/fyl/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server6.mp3quran.net/fyl/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server6.mp3quran.net/fyl/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server6.mp3quran.net/fyl/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server6.mp3quran.net/fyl/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server6.mp3quran.net/fyl/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server6.mp3quran.net/fyl/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server6.mp3quran.net/fyl/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server6.mp3quran.net/fyl/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server6.mp3quran.net/fyl/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server6.mp3quran.net/fyl/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server6.mp3quran.net/fyl/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server6.mp3quran.net/fyl/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server6.mp3quran.net/fyl/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server6.mp3quran.net/fyl/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server6.mp3quran.net/fyl/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server6.mp3quran.net/fyl/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server6.mp3quran.net/fyl/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server6.mp3quran.net/fyl/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server6.mp3quran.net/fyl/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server6.mp3quran.net/fyl/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server6.mp3quran.net/fyl/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server6.mp3quran.net/fyl/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server6.mp3quran.net/fyl/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server6.mp3quran.net/fyl/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server6.mp3quran.net/fyl/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server6.mp3quran.net/fyl/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server6.mp3quran.net/fyl/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server6.mp3quran.net/fyl/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server6.mp3quran.net/fyl/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server6.mp3quran.net/fyl/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server6.mp3quran.net/fyl/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server6.mp3quran.net/fyl/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server6.mp3quran.net/fyl/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server6.mp3quran.net/fyl/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server6.mp3quran.net/fyl/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server6.mp3quran.net/fyl/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server6.mp3quran.net/fyl/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server6.mp3quran.net/fyl/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server6.mp3quran.net/fyl/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server6.mp3quran.net/fyl/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server6.mp3quran.net/fyl/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server6.mp3quran.net/fyl/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server6.mp3quran.net/fyl/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server6.mp3quran.net/fyl/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server6.mp3quran.net/fyl/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server6.mp3quran.net/fyl/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server6.mp3quran.net/fyl/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server6.mp3quran.net/fyl/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server6.mp3quran.net/fyl/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server6.mp3quran.net/fyl/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server6.mp3quran.net/fyl/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server6.mp3quran.net/fyl/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server6.mp3quran.net/fyl/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server6.mp3quran.net/fyl/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server6.mp3quran.net/fyl/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server6.mp3quran.net/fyl/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server6.mp3quran.net/fyl/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server6.mp3quran.net/fyl/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server6.mp3quran.net/fyl/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server6.mp3quran.net/fyl/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server6.mp3quran.net/fyl/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server6.mp3quran.net/fyl/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server6.mp3quran.net/fyl/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server6.mp3quran.net/fyl/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server6.mp3quran.net/fyl/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server6.mp3quran.net/fyl/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server6.mp3quran.net/fyl/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server6.mp3quran.net/fyl/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server6.mp3quran.net/fyl/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server6.mp3quran.net/fyl/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server6.mp3quran.net/fyl/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server6.mp3quran.net/fyl/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server6.mp3quran.net/fyl/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Faylakawi - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server6.mp3quran.net/fyl/114.mp3

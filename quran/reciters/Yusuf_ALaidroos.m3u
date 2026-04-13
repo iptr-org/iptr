@@ -1,0 +1,235 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",001 - Al-Fatihah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",002 - Al-Baqarah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",003 - Aal Imran
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",004 - An-Nisa'
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",005 - Al-Ma'idah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",006 - Al-An'am
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",007 - Al-A'raf
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",008 - Al-Anfal
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",009 - At-Taubah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",010 - Yunus
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",011 - Hood
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",012 - Yusuf
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",013 - Ar-Ra'd
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",014 - Ibrahim
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",015 - Al-Hijr
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",016 - An-Nahl
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",017 - Al-Isra
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",018 - Al-Kahf
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",019 - Maryam
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",020 - Ta­Ha
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",021 - Al-Anbiya'
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",022 - Al-Hajj
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",024 - An-Nur
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",025 - Al-Furqan
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",027 - An-Naml
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",028 - Al-Qasas
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",029 - Al-'Ankabut
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",030 - Ar­Room
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",031 - Luqman
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",032 - As­Sajdah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",033 - Al­Ahzab
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",034 - Saba'
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",035 - Fatir
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",036 - Ya­Sin
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",037 - As-Saffat
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",038 - Sad
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",039 - Az-Zumar
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",040 - Ghafir
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",041 - Fussilat
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",042 - Ash-Shura
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",043 - Az-Zukhruf
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",044 - Ad-Dukhan
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",045 - Al-Jathiya
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",046 - Al-Ahqaf
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",047 - Muhammad
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",048 - Al-Fath
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",049 - Al-Hujurat
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",050 - Qaf
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",051 - Az-Zariyat
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",052 - At-Tur
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",053 - An-Najm
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",054 - Al-Qamar
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",055 - Ar-Rahman
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",056 - Al-Waqi'ah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",057 - Al-Hadid
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",058 - Al-Mujadilah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",059 - Al-Hashr
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",060 - Al-Mumtahinah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",061 - As-Saff
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",062 - Al-Jumu'ah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",063 - Al-Munafiqun
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",064 - At-Taghabun
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",065 - At-Talaq
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",066 - At-Tahrim
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",067 - Al-Mulk
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",068 - Al-Qalam
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",069 - Al-Haqqah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",070 - Al-Ma'arij
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",071 - Nooh
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",072 - Al-Jinn
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",073 - Al-Muzzammil
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",074 - Al-Muddaththir
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",075 - Al-Qiyamah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",076 - Al-Insan
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",077 - Al-Mursalat
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",078 - An-Naba'
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",079 - An-Nazi'at
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",080 - Abasa
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",081 - At-Takwir
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",082 - Al-Infitar
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",083 - Al-Mutaffifin
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",084 - Al-Inshiqaq
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",085 - Al-Buruj
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",086 - At-Tariq
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",087 - Al-A'la
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",088 - Al-Ghashiyah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",089 - Al-Fajr
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",090 - Al-Balad
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",091 - Ash-Shams
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",092 - Al-Lail
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",093 - Ad-Duha
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",094 - Ash-Sharh
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",095 - At-Tin
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",096 - Al-'Alaq
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",097 - Al-Qadr
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",098 - Al-Baiyinah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",099 - Az-Zalzalah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",100 - Al-'Adiyat
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",101 - Al-Qari'ah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",102 - At-Takathur
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",103 - Al-'Asr
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",104 - Al-Humazah
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",105 - Al-Fil
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",106 - Quraish
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",107 - Al-Ma'un
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",108 - Al-Kauthar
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",109 - Al-Kafirun
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",110 - An-Nasr
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",111 - Al-Masad
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",112 - Al-Ikhlas
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",113 - Al-Falaq
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yusuf ALaidroos - Rewayat Hafs A'n Assem - 4",114 - An-Nas
+https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/114.mp3

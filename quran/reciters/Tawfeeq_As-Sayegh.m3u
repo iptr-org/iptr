@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server6.mp3quran.net/twfeeq/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server6.mp3quran.net/twfeeq/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server6.mp3quran.net/twfeeq/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server6.mp3quran.net/twfeeq/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server6.mp3quran.net/twfeeq/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server6.mp3quran.net/twfeeq/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server6.mp3quran.net/twfeeq/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server6.mp3quran.net/twfeeq/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server6.mp3quran.net/twfeeq/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server6.mp3quran.net/twfeeq/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server6.mp3quran.net/twfeeq/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server6.mp3quran.net/twfeeq/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server6.mp3quran.net/twfeeq/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server6.mp3quran.net/twfeeq/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server6.mp3quran.net/twfeeq/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server6.mp3quran.net/twfeeq/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server6.mp3quran.net/twfeeq/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server6.mp3quran.net/twfeeq/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server6.mp3quran.net/twfeeq/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server6.mp3quran.net/twfeeq/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server6.mp3quran.net/twfeeq/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server6.mp3quran.net/twfeeq/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server6.mp3quran.net/twfeeq/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server6.mp3quran.net/twfeeq/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server6.mp3quran.net/twfeeq/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server6.mp3quran.net/twfeeq/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server6.mp3quran.net/twfeeq/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server6.mp3quran.net/twfeeq/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server6.mp3quran.net/twfeeq/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server6.mp3quran.net/twfeeq/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server6.mp3quran.net/twfeeq/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server6.mp3quran.net/twfeeq/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server6.mp3quran.net/twfeeq/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server6.mp3quran.net/twfeeq/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server6.mp3quran.net/twfeeq/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server6.mp3quran.net/twfeeq/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server6.mp3quran.net/twfeeq/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server6.mp3quran.net/twfeeq/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server6.mp3quran.net/twfeeq/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server6.mp3quran.net/twfeeq/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server6.mp3quran.net/twfeeq/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server6.mp3quran.net/twfeeq/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server6.mp3quran.net/twfeeq/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server6.mp3quran.net/twfeeq/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server6.mp3quran.net/twfeeq/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server6.mp3quran.net/twfeeq/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server6.mp3quran.net/twfeeq/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server6.mp3quran.net/twfeeq/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server6.mp3quran.net/twfeeq/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server6.mp3quran.net/twfeeq/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server6.mp3quran.net/twfeeq/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server6.mp3quran.net/twfeeq/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server6.mp3quran.net/twfeeq/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server6.mp3quran.net/twfeeq/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server6.mp3quran.net/twfeeq/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server6.mp3quran.net/twfeeq/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server6.mp3quran.net/twfeeq/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server6.mp3quran.net/twfeeq/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server6.mp3quran.net/twfeeq/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server6.mp3quran.net/twfeeq/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server6.mp3quran.net/twfeeq/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server6.mp3quran.net/twfeeq/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server6.mp3quran.net/twfeeq/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server6.mp3quran.net/twfeeq/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server6.mp3quran.net/twfeeq/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server6.mp3quran.net/twfeeq/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server6.mp3quran.net/twfeeq/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server6.mp3quran.net/twfeeq/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server6.mp3quran.net/twfeeq/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server6.mp3quran.net/twfeeq/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server6.mp3quran.net/twfeeq/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server6.mp3quran.net/twfeeq/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server6.mp3quran.net/twfeeq/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server6.mp3quran.net/twfeeq/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server6.mp3quran.net/twfeeq/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server6.mp3quran.net/twfeeq/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server6.mp3quran.net/twfeeq/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server6.mp3quran.net/twfeeq/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server6.mp3quran.net/twfeeq/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server6.mp3quran.net/twfeeq/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server6.mp3quran.net/twfeeq/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server6.mp3quran.net/twfeeq/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server6.mp3quran.net/twfeeq/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server6.mp3quran.net/twfeeq/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server6.mp3quran.net/twfeeq/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server6.mp3quran.net/twfeeq/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server6.mp3quran.net/twfeeq/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server6.mp3quran.net/twfeeq/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server6.mp3quran.net/twfeeq/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server6.mp3quran.net/twfeeq/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server6.mp3quran.net/twfeeq/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server6.mp3quran.net/twfeeq/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server6.mp3quran.net/twfeeq/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server6.mp3quran.net/twfeeq/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server6.mp3quran.net/twfeeq/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server6.mp3quran.net/twfeeq/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server6.mp3quran.net/twfeeq/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server6.mp3quran.net/twfeeq/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server6.mp3quran.net/twfeeq/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server6.mp3quran.net/twfeeq/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server6.mp3quran.net/twfeeq/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server6.mp3quran.net/twfeeq/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server6.mp3quran.net/twfeeq/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server6.mp3quran.net/twfeeq/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server6.mp3quran.net/twfeeq/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server6.mp3quran.net/twfeeq/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server6.mp3quran.net/twfeeq/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server6.mp3quran.net/twfeeq/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server6.mp3quran.net/twfeeq/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server6.mp3quran.net/twfeeq/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server6.mp3quran.net/twfeeq/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server6.mp3quran.net/twfeeq/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server6.mp3quran.net/twfeeq/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tawfeeq As-Sayegh - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server6.mp3quran.net/twfeeq/114.mp3

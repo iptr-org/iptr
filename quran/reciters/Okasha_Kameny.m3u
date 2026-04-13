@@ -1,0 +1,313 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",010 - Yunus
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",011 - Hood
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",012 - Yusuf
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",019 - Maryam
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",024 - An-Nur
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",027 - An-Naml
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",031 - Luqman
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",034 - Saba'
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",035 - Fatir
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",038 - Sad
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",040 - Ghafir
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",041 - Fussilat
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",047 - Muhammad
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",050 - Qaf
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",052 - At-Tur
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",053 - An-Najm
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",061 - As-Saff
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",071 - Nooh
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",080 - Abasa
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",095 - At-Tin
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",106 - Quraish
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat Albizi A'n Ibn Katheer - Murattal",114 - An-Nas
+https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",080 - Abasa
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",095 - At-Tin
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",106 - Quraish
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Okasha Kameny - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",114 - An-Nas
+https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/114.mp3

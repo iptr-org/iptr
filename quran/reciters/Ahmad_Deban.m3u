@@ -1,0 +1,1823 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Jammaz A'n Abi Ja'far - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Jammaz-A-n-Abi-Ja-far/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Hesham A'n Abi A'mer - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Hesham-A-n-Abi-A-mer/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Khalaf A'n Hamzah - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Khalaf A'n Hamzah - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Khalaf A'n Hamzah - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Khalaf A'n Hamzah - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Khalaf A'n Hamzah - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Khalaf A'n Hamzah - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Khalaf-A-n-Hamzah/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-AlDorai-A-n-Al-Kisa-ai/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Assosi A'n Abi Amr - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Assosi-A-n-Abi-Amr/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Ibn Thakwan A'n Ibn Amer - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Ibn-Thakwan-A-n-Ibn-Amer/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Warsh A'n Nafi' Men Tariq Alazraq - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Aldori A'n Abi Amr - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Aldori-A-n-Abi-Amr/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qalon A'n Nafi' - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Qalon-A-n-Nafi/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Albizi A'n Ibn Katheer - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Albizi-A-n-Ibn-Katheer/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Qunbol A'n Ibn Katheer - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Qunbol-A-n-Ibn-Katheer/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Sho'bah A'n Asim - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Sho-bah-A-n-Asim/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmad Deban - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/114.mp3

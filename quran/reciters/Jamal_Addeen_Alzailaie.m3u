@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server11.mp3quran.net/zilaie/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server11.mp3quran.net/zilaie/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server11.mp3quran.net/zilaie/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server11.mp3quran.net/zilaie/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server11.mp3quran.net/zilaie/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server11.mp3quran.net/zilaie/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server11.mp3quran.net/zilaie/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Jamal Addeen Alzailaie - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server11.mp3quran.net/zilaie/091.mp3

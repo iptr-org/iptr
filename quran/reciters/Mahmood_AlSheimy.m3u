@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",001 - Al-Fatihah
+https://server10.mp3quran.net/sheimy/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",002 - Al-Baqarah
+https://server10.mp3quran.net/sheimy/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",003 - Aal Imran
+https://server10.mp3quran.net/sheimy/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",004 - An-Nisa'
+https://server10.mp3quran.net/sheimy/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",005 - Al-Ma'idah
+https://server10.mp3quran.net/sheimy/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",006 - Al-An'am
+https://server10.mp3quran.net/sheimy/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",007 - Al-A'raf
+https://server10.mp3quran.net/sheimy/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",008 - Al-Anfal
+https://server10.mp3quran.net/sheimy/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",009 - At-Taubah
+https://server10.mp3quran.net/sheimy/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",010 - Yunus
+https://server10.mp3quran.net/sheimy/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",011 - Hood
+https://server10.mp3quran.net/sheimy/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",012 - Yusuf
+https://server10.mp3quran.net/sheimy/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",013 - Ar-Ra'd
+https://server10.mp3quran.net/sheimy/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",014 - Ibrahim
+https://server10.mp3quran.net/sheimy/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",015 - Al-Hijr
+https://server10.mp3quran.net/sheimy/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",016 - An-Nahl
+https://server10.mp3quran.net/sheimy/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",017 - Al-Isra
+https://server10.mp3quran.net/sheimy/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",018 - Al-Kahf
+https://server10.mp3quran.net/sheimy/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",019 - Maryam
+https://server10.mp3quran.net/sheimy/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",020 - Ta­Ha
+https://server10.mp3quran.net/sheimy/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",021 - Al-Anbiya'
+https://server10.mp3quran.net/sheimy/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",022 - Al-Hajj
+https://server10.mp3quran.net/sheimy/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",023 - Al-Mu'minun
+https://server10.mp3quran.net/sheimy/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",024 - An-Nur
+https://server10.mp3quran.net/sheimy/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",025 - Al-Furqan
+https://server10.mp3quran.net/sheimy/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",026 - Ash-Shu'ara'
+https://server10.mp3quran.net/sheimy/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",027 - An-Naml
+https://server10.mp3quran.net/sheimy/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",028 - Al-Qasas
+https://server10.mp3quran.net/sheimy/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",029 - Al-'Ankabut
+https://server10.mp3quran.net/sheimy/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",030 - Ar­Room
+https://server10.mp3quran.net/sheimy/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",031 - Luqman
+https://server10.mp3quran.net/sheimy/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",032 - As­Sajdah
+https://server10.mp3quran.net/sheimy/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",033 - Al­Ahzab
+https://server10.mp3quran.net/sheimy/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",034 - Saba'
+https://server10.mp3quran.net/sheimy/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",035 - Fatir
+https://server10.mp3quran.net/sheimy/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",036 - Ya­Sin
+https://server10.mp3quran.net/sheimy/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",037 - As-Saffat
+https://server10.mp3quran.net/sheimy/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",038 - Sad
+https://server10.mp3quran.net/sheimy/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",039 - Az-Zumar
+https://server10.mp3quran.net/sheimy/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",040 - Ghafir
+https://server10.mp3quran.net/sheimy/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",041 - Fussilat
+https://server10.mp3quran.net/sheimy/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",042 - Ash-Shura
+https://server10.mp3quran.net/sheimy/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",043 - Az-Zukhruf
+https://server10.mp3quran.net/sheimy/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",044 - Ad-Dukhan
+https://server10.mp3quran.net/sheimy/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",045 - Al-Jathiya
+https://server10.mp3quran.net/sheimy/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",046 - Al-Ahqaf
+https://server10.mp3quran.net/sheimy/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",047 - Muhammad
+https://server10.mp3quran.net/sheimy/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",048 - Al-Fath
+https://server10.mp3quran.net/sheimy/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",049 - Al-Hujurat
+https://server10.mp3quran.net/sheimy/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",050 - Qaf
+https://server10.mp3quran.net/sheimy/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",051 - Az-Zariyat
+https://server10.mp3quran.net/sheimy/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",052 - At-Tur
+https://server10.mp3quran.net/sheimy/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",053 - An-Najm
+https://server10.mp3quran.net/sheimy/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",054 - Al-Qamar
+https://server10.mp3quran.net/sheimy/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",055 - Ar-Rahman
+https://server10.mp3quran.net/sheimy/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",056 - Al-Waqi'ah
+https://server10.mp3quran.net/sheimy/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",057 - Al-Hadid
+https://server10.mp3quran.net/sheimy/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",058 - Al-Mujadilah
+https://server10.mp3quran.net/sheimy/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",059 - Al-Hashr
+https://server10.mp3quran.net/sheimy/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",060 - Al-Mumtahinah
+https://server10.mp3quran.net/sheimy/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",061 - As-Saff
+https://server10.mp3quran.net/sheimy/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",062 - Al-Jumu'ah
+https://server10.mp3quran.net/sheimy/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",063 - Al-Munafiqun
+https://server10.mp3quran.net/sheimy/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",064 - At-Taghabun
+https://server10.mp3quran.net/sheimy/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",065 - At-Talaq
+https://server10.mp3quran.net/sheimy/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",066 - At-Tahrim
+https://server10.mp3quran.net/sheimy/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",067 - Al-Mulk
+https://server10.mp3quran.net/sheimy/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",068 - Al-Qalam
+https://server10.mp3quran.net/sheimy/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",069 - Al-Haqqah
+https://server10.mp3quran.net/sheimy/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",070 - Al-Ma'arij
+https://server10.mp3quran.net/sheimy/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",071 - Nooh
+https://server10.mp3quran.net/sheimy/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",072 - Al-Jinn
+https://server10.mp3quran.net/sheimy/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",073 - Al-Muzzammil
+https://server10.mp3quran.net/sheimy/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",074 - Al-Muddaththir
+https://server10.mp3quran.net/sheimy/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",075 - Al-Qiyamah
+https://server10.mp3quran.net/sheimy/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",076 - Al-Insan
+https://server10.mp3quran.net/sheimy/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",077 - Al-Mursalat
+https://server10.mp3quran.net/sheimy/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",078 - An-Naba'
+https://server10.mp3quran.net/sheimy/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",079 - An-Nazi'at
+https://server10.mp3quran.net/sheimy/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",080 - Abasa
+https://server10.mp3quran.net/sheimy/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",081 - At-Takwir
+https://server10.mp3quran.net/sheimy/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",082 - Al-Infitar
+https://server10.mp3quran.net/sheimy/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",083 - Al-Mutaffifin
+https://server10.mp3quran.net/sheimy/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",084 - Al-Inshiqaq
+https://server10.mp3quran.net/sheimy/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",085 - Al-Buruj
+https://server10.mp3quran.net/sheimy/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",086 - At-Tariq
+https://server10.mp3quran.net/sheimy/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",087 - Al-A'la
+https://server10.mp3quran.net/sheimy/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",088 - Al-Ghashiyah
+https://server10.mp3quran.net/sheimy/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",089 - Al-Fajr
+https://server10.mp3quran.net/sheimy/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",090 - Al-Balad
+https://server10.mp3quran.net/sheimy/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",091 - Ash-Shams
+https://server10.mp3quran.net/sheimy/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",092 - Al-Lail
+https://server10.mp3quran.net/sheimy/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",093 - Ad-Duha
+https://server10.mp3quran.net/sheimy/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",094 - Ash-Sharh
+https://server10.mp3quran.net/sheimy/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",095 - At-Tin
+https://server10.mp3quran.net/sheimy/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",096 - Al-'Alaq
+https://server10.mp3quran.net/sheimy/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",097 - Al-Qadr
+https://server10.mp3quran.net/sheimy/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",098 - Al-Baiyinah
+https://server10.mp3quran.net/sheimy/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",099 - Az-Zalzalah
+https://server10.mp3quran.net/sheimy/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",100 - Al-'Adiyat
+https://server10.mp3quran.net/sheimy/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",101 - Al-Qari'ah
+https://server10.mp3quran.net/sheimy/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",102 - At-Takathur
+https://server10.mp3quran.net/sheimy/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",103 - Al-'Asr
+https://server10.mp3quran.net/sheimy/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",104 - Al-Humazah
+https://server10.mp3quran.net/sheimy/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",105 - Al-Fil
+https://server10.mp3quran.net/sheimy/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",106 - Quraish
+https://server10.mp3quran.net/sheimy/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",107 - Al-Ma'un
+https://server10.mp3quran.net/sheimy/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",108 - Al-Kauthar
+https://server10.mp3quran.net/sheimy/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",109 - Al-Kafirun
+https://server10.mp3quran.net/sheimy/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",110 - An-Nasr
+https://server10.mp3quran.net/sheimy/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",111 - Al-Masad
+https://server10.mp3quran.net/sheimy/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",112 - Al-Ikhlas
+https://server10.mp3quran.net/sheimy/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",113 - Al-Falaq
+https://server10.mp3quran.net/sheimy/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mahmood AlSheimy - Rewayat AlDorai A'n Al-Kisa'ai - Murattal",114 - An-Nas
+https://server10.mp3quran.net/sheimy/114.mp3

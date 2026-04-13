@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server10.mp3quran.net/tareq/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server10.mp3quran.net/tareq/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",003 - Aal Imran
+https://server10.mp3quran.net/tareq/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",004 - An-Nisa'
+https://server10.mp3quran.net/tareq/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server10.mp3quran.net/tareq/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",006 - Al-An'am
+https://server10.mp3quran.net/tareq/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",007 - Al-A'raf
+https://server10.mp3quran.net/tareq/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",008 - Al-Anfal
+https://server10.mp3quran.net/tareq/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",009 - At-Taubah
+https://server10.mp3quran.net/tareq/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",010 - Yunus
+https://server10.mp3quran.net/tareq/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",011 - Hood
+https://server10.mp3quran.net/tareq/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",012 - Yusuf
+https://server10.mp3quran.net/tareq/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server10.mp3quran.net/tareq/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",014 - Ibrahim
+https://server10.mp3quran.net/tareq/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",015 - Al-Hijr
+https://server10.mp3quran.net/tareq/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",016 - An-Nahl
+https://server10.mp3quran.net/tareq/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",017 - Al-Isra
+https://server10.mp3quran.net/tareq/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",018 - Al-Kahf
+https://server10.mp3quran.net/tareq/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",019 - Maryam
+https://server10.mp3quran.net/tareq/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",020 - Ta­Ha
+https://server10.mp3quran.net/tareq/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server10.mp3quran.net/tareq/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",022 - Al-Hajj
+https://server10.mp3quran.net/tareq/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server10.mp3quran.net/tareq/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",024 - An-Nur
+https://server10.mp3quran.net/tareq/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",025 - Al-Furqan
+https://server10.mp3quran.net/tareq/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server10.mp3quran.net/tareq/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",027 - An-Naml
+https://server10.mp3quran.net/tareq/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",028 - Al-Qasas
+https://server10.mp3quran.net/tareq/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server10.mp3quran.net/tareq/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",030 - Ar­Room
+https://server10.mp3quran.net/tareq/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",031 - Luqman
+https://server10.mp3quran.net/tareq/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",032 - As­Sajdah
+https://server10.mp3quran.net/tareq/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server10.mp3quran.net/tareq/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",034 - Saba'
+https://server10.mp3quran.net/tareq/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",035 - Fatir
+https://server10.mp3quran.net/tareq/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",036 - Ya­Sin
+https://server10.mp3quran.net/tareq/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",037 - As-Saffat
+https://server10.mp3quran.net/tareq/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",038 - Sad
+https://server10.mp3quran.net/tareq/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",039 - Az-Zumar
+https://server10.mp3quran.net/tareq/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",040 - Ghafir
+https://server10.mp3quran.net/tareq/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",041 - Fussilat
+https://server10.mp3quran.net/tareq/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",042 - Ash-Shura
+https://server10.mp3quran.net/tareq/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server10.mp3quran.net/tareq/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server10.mp3quran.net/tareq/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server10.mp3quran.net/tareq/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server10.mp3quran.net/tareq/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",047 - Muhammad
+https://server10.mp3quran.net/tareq/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",048 - Al-Fath
+https://server10.mp3quran.net/tareq/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server10.mp3quran.net/tareq/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",050 - Qaf
+https://server10.mp3quran.net/tareq/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server10.mp3quran.net/tareq/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",052 - At-Tur
+https://server10.mp3quran.net/tareq/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",053 - An-Najm
+https://server10.mp3quran.net/tareq/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",054 - Al-Qamar
+https://server10.mp3quran.net/tareq/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server10.mp3quran.net/tareq/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server10.mp3quran.net/tareq/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",057 - Al-Hadid
+https://server10.mp3quran.net/tareq/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server10.mp3quran.net/tareq/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",059 - Al-Hashr
+https://server10.mp3quran.net/tareq/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server10.mp3quran.net/tareq/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",061 - As-Saff
+https://server10.mp3quran.net/tareq/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server10.mp3quran.net/tareq/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server10.mp3quran.net/tareq/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",064 - At-Taghabun
+https://server10.mp3quran.net/tareq/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",065 - At-Talaq
+https://server10.mp3quran.net/tareq/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",066 - At-Tahrim
+https://server10.mp3quran.net/tareq/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",067 - Al-Mulk
+https://server10.mp3quran.net/tareq/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",068 - Al-Qalam
+https://server10.mp3quran.net/tareq/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server10.mp3quran.net/tareq/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server10.mp3quran.net/tareq/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",071 - Nooh
+https://server10.mp3quran.net/tareq/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",072 - Al-Jinn
+https://server10.mp3quran.net/tareq/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server10.mp3quran.net/tareq/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server10.mp3quran.net/tareq/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server10.mp3quran.net/tareq/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",076 - Al-Insan
+https://server10.mp3quran.net/tareq/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server10.mp3quran.net/tareq/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",078 - An-Naba'
+https://server10.mp3quran.net/tareq/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server10.mp3quran.net/tareq/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",080 - Abasa
+https://server10.mp3quran.net/tareq/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",081 - At-Takwir
+https://server10.mp3quran.net/tareq/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",082 - Al-Infitar
+https://server10.mp3quran.net/tareq/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server10.mp3quran.net/tareq/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server10.mp3quran.net/tareq/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",085 - Al-Buruj
+https://server10.mp3quran.net/tareq/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",086 - At-Tariq
+https://server10.mp3quran.net/tareq/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",087 - Al-A'la
+https://server10.mp3quran.net/tareq/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server10.mp3quran.net/tareq/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",089 - Al-Fajr
+https://server10.mp3quran.net/tareq/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",090 - Al-Balad
+https://server10.mp3quran.net/tareq/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",091 - Ash-Shams
+https://server10.mp3quran.net/tareq/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",092 - Al-Lail
+https://server10.mp3quran.net/tareq/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",093 - Ad-Duha
+https://server10.mp3quran.net/tareq/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server10.mp3quran.net/tareq/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",095 - At-Tin
+https://server10.mp3quran.net/tareq/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server10.mp3quran.net/tareq/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",097 - Al-Qadr
+https://server10.mp3quran.net/tareq/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server10.mp3quran.net/tareq/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server10.mp3quran.net/tareq/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server10.mp3quran.net/tareq/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server10.mp3quran.net/tareq/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",102 - At-Takathur
+https://server10.mp3quran.net/tareq/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",103 - Al-'Asr
+https://server10.mp3quran.net/tareq/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",104 - Al-Humazah
+https://server10.mp3quran.net/tareq/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",105 - Al-Fil
+https://server10.mp3quran.net/tareq/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",106 - Quraish
+https://server10.mp3quran.net/tareq/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server10.mp3quran.net/tareq/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server10.mp3quran.net/tareq/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server10.mp3quran.net/tareq/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",110 - An-Nasr
+https://server10.mp3quran.net/tareq/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",111 - Al-Masad
+https://server10.mp3quran.net/tareq/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server10.mp3quran.net/tareq/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",113 - Al-Falaq
+https://server10.mp3quran.net/tareq/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Tareq Abdulgani daawob - Rewayat Qalon A'n Nafi' - Murattal",114 - An-Nas
+https://server10.mp3quran.net/tareq/114.mp3

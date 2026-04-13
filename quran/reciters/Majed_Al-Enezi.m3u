@@ -1,0 +1,235 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server8.mp3quran.net/majd_onazi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server8.mp3quran.net/majd_onazi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server8.mp3quran.net/majd_onazi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server8.mp3quran.net/majd_onazi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server8.mp3quran.net/majd_onazi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server8.mp3quran.net/majd_onazi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server8.mp3quran.net/majd_onazi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server8.mp3quran.net/majd_onazi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server8.mp3quran.net/majd_onazi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server8.mp3quran.net/majd_onazi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server8.mp3quran.net/majd_onazi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server8.mp3quran.net/majd_onazi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server8.mp3quran.net/majd_onazi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server8.mp3quran.net/majd_onazi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server8.mp3quran.net/majd_onazi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server8.mp3quran.net/majd_onazi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server8.mp3quran.net/majd_onazi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server8.mp3quran.net/majd_onazi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server8.mp3quran.net/majd_onazi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server8.mp3quran.net/majd_onazi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server8.mp3quran.net/majd_onazi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server8.mp3quran.net/majd_onazi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server8.mp3quran.net/majd_onazi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server8.mp3quran.net/majd_onazi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server8.mp3quran.net/majd_onazi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server8.mp3quran.net/majd_onazi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server8.mp3quran.net/majd_onazi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server8.mp3quran.net/majd_onazi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server8.mp3quran.net/majd_onazi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server8.mp3quran.net/majd_onazi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server8.mp3quran.net/majd_onazi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server8.mp3quran.net/majd_onazi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server8.mp3quran.net/majd_onazi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server8.mp3quran.net/majd_onazi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server8.mp3quran.net/majd_onazi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server8.mp3quran.net/majd_onazi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server8.mp3quran.net/majd_onazi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server8.mp3quran.net/majd_onazi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server8.mp3quran.net/majd_onazi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server8.mp3quran.net/majd_onazi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server8.mp3quran.net/majd_onazi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server8.mp3quran.net/majd_onazi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server8.mp3quran.net/majd_onazi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server8.mp3quran.net/majd_onazi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server8.mp3quran.net/majd_onazi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server8.mp3quran.net/majd_onazi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server8.mp3quran.net/majd_onazi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server8.mp3quran.net/majd_onazi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server8.mp3quran.net/majd_onazi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server8.mp3quran.net/majd_onazi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server8.mp3quran.net/majd_onazi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server8.mp3quran.net/majd_onazi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server8.mp3quran.net/majd_onazi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server8.mp3quran.net/majd_onazi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server8.mp3quran.net/majd_onazi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server8.mp3quran.net/majd_onazi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server8.mp3quran.net/majd_onazi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server8.mp3quran.net/majd_onazi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server8.mp3quran.net/majd_onazi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server8.mp3quran.net/majd_onazi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server8.mp3quran.net/majd_onazi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server8.mp3quran.net/majd_onazi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server8.mp3quran.net/majd_onazi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server8.mp3quran.net/majd_onazi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server8.mp3quran.net/majd_onazi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server8.mp3quran.net/majd_onazi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server8.mp3quran.net/majd_onazi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server8.mp3quran.net/majd_onazi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server8.mp3quran.net/majd_onazi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server8.mp3quran.net/majd_onazi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server8.mp3quran.net/majd_onazi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server8.mp3quran.net/majd_onazi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server8.mp3quran.net/majd_onazi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server8.mp3quran.net/majd_onazi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server8.mp3quran.net/majd_onazi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server8.mp3quran.net/majd_onazi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server8.mp3quran.net/majd_onazi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server8.mp3quran.net/majd_onazi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server8.mp3quran.net/majd_onazi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server8.mp3quran.net/majd_onazi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server8.mp3quran.net/majd_onazi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server8.mp3quran.net/majd_onazi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server8.mp3quran.net/majd_onazi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server8.mp3quran.net/majd_onazi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server8.mp3quran.net/majd_onazi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server8.mp3quran.net/majd_onazi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server8.mp3quran.net/majd_onazi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server8.mp3quran.net/majd_onazi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server8.mp3quran.net/majd_onazi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server8.mp3quran.net/majd_onazi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server8.mp3quran.net/majd_onazi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server8.mp3quran.net/majd_onazi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server8.mp3quran.net/majd_onazi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server8.mp3quran.net/majd_onazi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server8.mp3quran.net/majd_onazi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server8.mp3quran.net/majd_onazi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server8.mp3quran.net/majd_onazi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server8.mp3quran.net/majd_onazi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server8.mp3quran.net/majd_onazi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server8.mp3quran.net/majd_onazi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server8.mp3quran.net/majd_onazi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server8.mp3quran.net/majd_onazi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server8.mp3quran.net/majd_onazi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server8.mp3quran.net/majd_onazi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server8.mp3quran.net/majd_onazi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server8.mp3quran.net/majd_onazi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server8.mp3quran.net/majd_onazi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server8.mp3quran.net/majd_onazi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server8.mp3quran.net/majd_onazi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server8.mp3quran.net/majd_onazi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server8.mp3quran.net/majd_onazi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server8.mp3quran.net/majd_onazi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Majed Al-Enezi - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server8.mp3quran.net/majd_onazi/114.mp3

@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/mzroyee/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/mzroyee/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/mzroyee/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/mzroyee/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/mzroyee/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/mzroyee/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/mzroyee/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/mzroyee/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/mzroyee/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",010 - Yunus
+https://server9.mp3quran.net/mzroyee/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",011 - Hood
+https://server9.mp3quran.net/mzroyee/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",012 - Yusuf
+https://server9.mp3quran.net/mzroyee/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/mzroyee/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/mzroyee/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/mzroyee/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/mzroyee/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/mzroyee/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/mzroyee/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",019 - Maryam
+https://server9.mp3quran.net/mzroyee/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/mzroyee/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/mzroyee/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/mzroyee/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/mzroyee/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",024 - An-Nur
+https://server9.mp3quran.net/mzroyee/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/mzroyee/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/mzroyee/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",027 - An-Naml
+https://server9.mp3quran.net/mzroyee/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/mzroyee/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/mzroyee/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/mzroyee/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",031 - Luqman
+https://server9.mp3quran.net/mzroyee/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/mzroyee/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/mzroyee/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",034 - Saba'
+https://server9.mp3quran.net/mzroyee/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",035 - Fatir
+https://server9.mp3quran.net/mzroyee/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/mzroyee/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/mzroyee/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",038 - Sad
+https://server9.mp3quran.net/mzroyee/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/mzroyee/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",040 - Ghafir
+https://server9.mp3quran.net/mzroyee/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",041 - Fussilat
+https://server9.mp3quran.net/mzroyee/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/mzroyee/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/mzroyee/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/mzroyee/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/mzroyee/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/mzroyee/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",047 - Muhammad
+https://server9.mp3quran.net/mzroyee/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/mzroyee/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/mzroyee/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",050 - Qaf
+https://server9.mp3quran.net/mzroyee/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/mzroyee/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",052 - At-Tur
+https://server9.mp3quran.net/mzroyee/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",053 - An-Najm
+https://server9.mp3quran.net/mzroyee/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/mzroyee/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/mzroyee/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/mzroyee/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/mzroyee/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/mzroyee/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/mzroyee/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/mzroyee/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",061 - As-Saff
+https://server9.mp3quran.net/mzroyee/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/mzroyee/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/mzroyee/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/mzroyee/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/mzroyee/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/mzroyee/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/mzroyee/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/mzroyee/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/mzroyee/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/mzroyee/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",071 - Nooh
+https://server9.mp3quran.net/mzroyee/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/mzroyee/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/mzroyee/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/mzroyee/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/mzroyee/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/mzroyee/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/mzroyee/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/mzroyee/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/mzroyee/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",080 - Abasa
+https://server9.mp3quran.net/mzroyee/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/mzroyee/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/mzroyee/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/mzroyee/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/mzroyee/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/mzroyee/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/mzroyee/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/mzroyee/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/mzroyee/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/mzroyee/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/mzroyee/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/mzroyee/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/mzroyee/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/mzroyee/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/mzroyee/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",095 - At-Tin
+https://server9.mp3quran.net/mzroyee/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/mzroyee/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/mzroyee/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/mzroyee/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/mzroyee/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/mzroyee/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/mzroyee/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/mzroyee/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/mzroyee/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/mzroyee/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/mzroyee/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",106 - Quraish
+https://server9.mp3quran.net/mzroyee/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/mzroyee/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/mzroyee/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/mzroyee/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/mzroyee/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/mzroyee/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/mzroyee/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/mzroyee/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Yasser Al-Mazroyee - Rewayat Rowis and Rawh A'n Yakoob Al Hadrami  - Murattal",114 - An-Nas
+https://server9.mp3quran.net/mzroyee/114.mp3

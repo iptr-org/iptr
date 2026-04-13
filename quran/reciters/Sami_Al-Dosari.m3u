@@ -1,0 +1,115 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server8.mp3quran.net/sami_dosr/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server8.mp3quran.net/sami_dosr/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server8.mp3quran.net/sami_dosr/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server8.mp3quran.net/sami_dosr/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server8.mp3quran.net/sami_dosr/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server8.mp3quran.net/sami_dosr/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server8.mp3quran.net/sami_dosr/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server8.mp3quran.net/sami_dosr/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server8.mp3quran.net/sami_dosr/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server8.mp3quran.net/sami_dosr/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server8.mp3quran.net/sami_dosr/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server8.mp3quran.net/sami_dosr/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server8.mp3quran.net/sami_dosr/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server8.mp3quran.net/sami_dosr/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server8.mp3quran.net/sami_dosr/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server8.mp3quran.net/sami_dosr/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server8.mp3quran.net/sami_dosr/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server8.mp3quran.net/sami_dosr/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server8.mp3quran.net/sami_dosr/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server8.mp3quran.net/sami_dosr/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server8.mp3quran.net/sami_dosr/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server8.mp3quran.net/sami_dosr/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server8.mp3quran.net/sami_dosr/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server8.mp3quran.net/sami_dosr/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server8.mp3quran.net/sami_dosr/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server8.mp3quran.net/sami_dosr/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server8.mp3quran.net/sami_dosr/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server8.mp3quran.net/sami_dosr/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server8.mp3quran.net/sami_dosr/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server8.mp3quran.net/sami_dosr/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server8.mp3quran.net/sami_dosr/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server8.mp3quran.net/sami_dosr/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server8.mp3quran.net/sami_dosr/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server8.mp3quran.net/sami_dosr/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server8.mp3quran.net/sami_dosr/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server8.mp3quran.net/sami_dosr/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server8.mp3quran.net/sami_dosr/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server8.mp3quran.net/sami_dosr/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server8.mp3quran.net/sami_dosr/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server8.mp3quran.net/sami_dosr/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server8.mp3quran.net/sami_dosr/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server8.mp3quran.net/sami_dosr/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server8.mp3quran.net/sami_dosr/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server8.mp3quran.net/sami_dosr/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server8.mp3quran.net/sami_dosr/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server8.mp3quran.net/sami_dosr/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server8.mp3quran.net/sami_dosr/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server8.mp3quran.net/sami_dosr/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server8.mp3quran.net/sami_dosr/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server8.mp3quran.net/sami_dosr/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server8.mp3quran.net/sami_dosr/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server8.mp3quran.net/sami_dosr/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Sami Al-Dosari - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server8.mp3quran.net/sami_dosr/114.mp3

@@ -1,0 +1,111 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server12.mp3quran.net/ifrad/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server12.mp3quran.net/ifrad/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",003 - Aal Imran
+https://server12.mp3quran.net/ifrad/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",012 - Yusuf
+https://server12.mp3quran.net/ifrad/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server12.mp3quran.net/ifrad/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",014 - Ibrahim
+https://server12.mp3quran.net/ifrad/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",018 - Al-Kahf
+https://server12.mp3quran.net/ifrad/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",020 - Ta­Ha
+https://server12.mp3quran.net/ifrad/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",022 - Al-Hajj
+https://server12.mp3quran.net/ifrad/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server12.mp3quran.net/ifrad/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",025 - Al-Furqan
+https://server12.mp3quran.net/ifrad/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server12.mp3quran.net/ifrad/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",027 - An-Naml
+https://server12.mp3quran.net/ifrad/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",028 - Al-Qasas
+https://server12.mp3quran.net/ifrad/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server12.mp3quran.net/ifrad/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",030 - Ar­Room
+https://server12.mp3quran.net/ifrad/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",031 - Luqman
+https://server12.mp3quran.net/ifrad/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server12.mp3quran.net/ifrad/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",034 - Saba'
+https://server12.mp3quran.net/ifrad/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",035 - Fatir
+https://server12.mp3quran.net/ifrad/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",036 - Ya­Sin
+https://server12.mp3quran.net/ifrad/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",037 - As-Saffat
+https://server12.mp3quran.net/ifrad/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",038 - Sad
+https://server12.mp3quran.net/ifrad/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",039 - Az-Zumar
+https://server12.mp3quran.net/ifrad/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",040 - Ghafir
+https://server12.mp3quran.net/ifrad/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",041 - Fussilat
+https://server12.mp3quran.net/ifrad/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",042 - Ash-Shura
+https://server12.mp3quran.net/ifrad/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server12.mp3quran.net/ifrad/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server12.mp3quran.net/ifrad/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",047 - Muhammad
+https://server12.mp3quran.net/ifrad/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",048 - Al-Fath
+https://server12.mp3quran.net/ifrad/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server12.mp3quran.net/ifrad/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server12.mp3quran.net/ifrad/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",067 - Al-Mulk
+https://server12.mp3quran.net/ifrad/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",068 - Al-Qalam
+https://server12.mp3quran.net/ifrad/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server12.mp3quran.net/ifrad/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server12.mp3quran.net/ifrad/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",071 - Nooh
+https://server12.mp3quran.net/ifrad/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server12.mp3quran.net/ifrad/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server12.mp3quran.net/ifrad/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server12.mp3quran.net/ifrad/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",082 - Al-Infitar
+https://server12.mp3quran.net/ifrad/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",086 - At-Tariq
+https://server12.mp3quran.net/ifrad/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",087 - Al-A'la
+https://server12.mp3quran.net/ifrad/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server12.mp3quran.net/ifrad/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",089 - Al-Fajr
+https://server12.mp3quran.net/ifrad/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",093 - Ad-Duha
+https://server12.mp3quran.net/ifrad/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server12.mp3quran.net/ifrad/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",104 - Al-Humazah
+https://server12.mp3quran.net/ifrad/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server12.mp3quran.net/ifrad/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Rasheed Ifrad - Rewayat Warsh A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server12.mp3quran.net/ifrad/112.mp3

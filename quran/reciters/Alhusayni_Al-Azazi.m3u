@@ -1,0 +1,123 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",058 - Al-Mujadilah
+https://server8.mp3quran.net/3zazi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",059 - Al-Hashr
+https://server8.mp3quran.net/3zazi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",060 - Al-Mumtahinah
+https://server8.mp3quran.net/3zazi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",061 - As-Saff
+https://server8.mp3quran.net/3zazi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",062 - Al-Jumu'ah
+https://server8.mp3quran.net/3zazi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",063 - Al-Munafiqun
+https://server8.mp3quran.net/3zazi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",064 - At-Taghabun
+https://server8.mp3quran.net/3zazi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",065 - At-Talaq
+https://server8.mp3quran.net/3zazi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",066 - At-Tahrim
+https://server8.mp3quran.net/3zazi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",067 - Al-Mulk
+https://server8.mp3quran.net/3zazi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",068 - Al-Qalam
+https://server8.mp3quran.net/3zazi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",069 - Al-Haqqah
+https://server8.mp3quran.net/3zazi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",070 - Al-Ma'arij
+https://server8.mp3quran.net/3zazi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",071 - Nooh
+https://server8.mp3quran.net/3zazi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",072 - Al-Jinn
+https://server8.mp3quran.net/3zazi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",073 - Al-Muzzammil
+https://server8.mp3quran.net/3zazi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",074 - Al-Muddaththir
+https://server8.mp3quran.net/3zazi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",075 - Al-Qiyamah
+https://server8.mp3quran.net/3zazi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",076 - Al-Insan
+https://server8.mp3quran.net/3zazi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",077 - Al-Mursalat
+https://server8.mp3quran.net/3zazi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",078 - An-Naba'
+https://server8.mp3quran.net/3zazi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",079 - An-Nazi'at
+https://server8.mp3quran.net/3zazi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",080 - Abasa
+https://server8.mp3quran.net/3zazi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",081 - At-Takwir
+https://server8.mp3quran.net/3zazi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",082 - Al-Infitar
+https://server8.mp3quran.net/3zazi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",083 - Al-Mutaffifin
+https://server8.mp3quran.net/3zazi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",084 - Al-Inshiqaq
+https://server8.mp3quran.net/3zazi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",085 - Al-Buruj
+https://server8.mp3quran.net/3zazi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",086 - At-Tariq
+https://server8.mp3quran.net/3zazi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",087 - Al-A'la
+https://server8.mp3quran.net/3zazi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",088 - Al-Ghashiyah
+https://server8.mp3quran.net/3zazi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",089 - Al-Fajr
+https://server8.mp3quran.net/3zazi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",090 - Al-Balad
+https://server8.mp3quran.net/3zazi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",091 - Ash-Shams
+https://server8.mp3quran.net/3zazi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",092 - Al-Lail
+https://server8.mp3quran.net/3zazi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",093 - Ad-Duha
+https://server8.mp3quran.net/3zazi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",094 - Ash-Sharh
+https://server8.mp3quran.net/3zazi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",095 - At-Tin
+https://server8.mp3quran.net/3zazi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",096 - Al-'Alaq
+https://server8.mp3quran.net/3zazi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",097 - Al-Qadr
+https://server8.mp3quran.net/3zazi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",098 - Al-Baiyinah
+https://server8.mp3quran.net/3zazi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",099 - Az-Zalzalah
+https://server8.mp3quran.net/3zazi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",100 - Al-'Adiyat
+https://server8.mp3quran.net/3zazi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",101 - Al-Qari'ah
+https://server8.mp3quran.net/3zazi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",102 - At-Takathur
+https://server8.mp3quran.net/3zazi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",103 - Al-'Asr
+https://server8.mp3quran.net/3zazi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",104 - Al-Humazah
+https://server8.mp3quran.net/3zazi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",105 - Al-Fil
+https://server8.mp3quran.net/3zazi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",106 - Quraish
+https://server8.mp3quran.net/3zazi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",107 - Al-Ma'un
+https://server8.mp3quran.net/3zazi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",108 - Al-Kauthar
+https://server8.mp3quran.net/3zazi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",109 - Al-Kafirun
+https://server8.mp3quran.net/3zazi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",110 - An-Nasr
+https://server8.mp3quran.net/3zazi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",111 - Al-Masad
+https://server8.mp3quran.net/3zazi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",112 - Al-Ikhlas
+https://server8.mp3quran.net/3zazi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",113 - Al-Falaq
+https://server8.mp3quran.net/3zazi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Alhusayni Al-Azazi - Almusshaf Al Mo'lim - Almusshaf Al Mo'lim",114 - An-Nas
+https://server8.mp3quran.net/3zazi/114.mp3

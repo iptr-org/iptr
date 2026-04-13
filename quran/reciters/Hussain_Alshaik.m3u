@@ -1,0 +1,127 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server11.mp3quran.net/alshaik/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server11.mp3quran.net/alshaik/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server11.mp3quran.net/alshaik/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server11.mp3quran.net/alshaik/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server11.mp3quran.net/alshaik/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server11.mp3quran.net/alshaik/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server11.mp3quran.net/alshaik/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server11.mp3quran.net/alshaik/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server11.mp3quran.net/alshaik/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server11.mp3quran.net/alshaik/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server11.mp3quran.net/alshaik/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server11.mp3quran.net/alshaik/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server11.mp3quran.net/alshaik/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server11.mp3quran.net/alshaik/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server11.mp3quran.net/alshaik/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server11.mp3quran.net/alshaik/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server11.mp3quran.net/alshaik/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server11.mp3quran.net/alshaik/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server11.mp3quran.net/alshaik/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server11.mp3quran.net/alshaik/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server11.mp3quran.net/alshaik/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server11.mp3quran.net/alshaik/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server11.mp3quran.net/alshaik/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server11.mp3quran.net/alshaik/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server11.mp3quran.net/alshaik/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server11.mp3quran.net/alshaik/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server11.mp3quran.net/alshaik/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server11.mp3quran.net/alshaik/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server11.mp3quran.net/alshaik/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server11.mp3quran.net/alshaik/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server11.mp3quran.net/alshaik/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server11.mp3quran.net/alshaik/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server11.mp3quran.net/alshaik/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server11.mp3quran.net/alshaik/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server11.mp3quran.net/alshaik/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server11.mp3quran.net/alshaik/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server11.mp3quran.net/alshaik/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server11.mp3quran.net/alshaik/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server11.mp3quran.net/alshaik/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server11.mp3quran.net/alshaik/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server11.mp3quran.net/alshaik/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server11.mp3quran.net/alshaik/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server11.mp3quran.net/alshaik/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server11.mp3quran.net/alshaik/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server11.mp3quran.net/alshaik/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server11.mp3quran.net/alshaik/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server11.mp3quran.net/alshaik/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server11.mp3quran.net/alshaik/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server11.mp3quran.net/alshaik/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server11.mp3quran.net/alshaik/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server11.mp3quran.net/alshaik/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server11.mp3quran.net/alshaik/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server11.mp3quran.net/alshaik/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server11.mp3quran.net/alshaik/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server11.mp3quran.net/alshaik/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server11.mp3quran.net/alshaik/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server11.mp3quran.net/alshaik/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server11.mp3quran.net/alshaik/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Hussain Alshaik - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server11.mp3quran.net/alshaik/114.mp3

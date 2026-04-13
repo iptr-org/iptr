@@ -1,0 +1,75 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/tlb/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/tlb/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/tlb/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server9.mp3quran.net/tlb/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server9.mp3quran.net/tlb/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/tlb/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/tlb/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/tlb/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/tlb/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server9.mp3quran.net/tlb/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/tlb/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/tlb/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/tlb/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/tlb/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/tlb/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/tlb/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server9.mp3quran.net/tlb/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/tlb/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/tlb/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/tlb/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/tlb/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/tlb/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/tlb/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/tlb/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/tlb/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/tlb/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server9.mp3quran.net/tlb/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/tlb/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/tlb/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/tlb/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/tlb/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/tlb/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Saleh Al-Talib - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/tlb/086.mp3

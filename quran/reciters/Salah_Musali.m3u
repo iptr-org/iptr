@@ -1,0 +1,107 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server14.mp3quran.net/musali/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server14.mp3quran.net/musali/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server14.mp3quran.net/musali/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server14.mp3quran.net/musali/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server14.mp3quran.net/musali/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server14.mp3quran.net/musali/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server14.mp3quran.net/musali/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server14.mp3quran.net/musali/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server14.mp3quran.net/musali/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server14.mp3quran.net/musali/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server14.mp3quran.net/musali/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server14.mp3quran.net/musali/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server14.mp3quran.net/musali/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server14.mp3quran.net/musali/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server14.mp3quran.net/musali/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server14.mp3quran.net/musali/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server14.mp3quran.net/musali/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server14.mp3quran.net/musali/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server14.mp3quran.net/musali/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server14.mp3quran.net/musali/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server14.mp3quran.net/musali/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server14.mp3quran.net/musali/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server14.mp3quran.net/musali/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server14.mp3quran.net/musali/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server14.mp3quran.net/musali/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server14.mp3quran.net/musali/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server14.mp3quran.net/musali/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server14.mp3quran.net/musali/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server14.mp3quran.net/musali/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server14.mp3quran.net/musali/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server14.mp3quran.net/musali/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server14.mp3quran.net/musali/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server14.mp3quran.net/musali/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server14.mp3quran.net/musali/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server14.mp3quran.net/musali/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server14.mp3quran.net/musali/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server14.mp3quran.net/musali/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server14.mp3quran.net/musali/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server14.mp3quran.net/musali/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server14.mp3quran.net/musali/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server14.mp3quran.net/musali/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server14.mp3quran.net/musali/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server14.mp3quran.net/musali/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server14.mp3quran.net/musali/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server14.mp3quran.net/musali/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server14.mp3quran.net/musali/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server14.mp3quran.net/musali/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server14.mp3quran.net/musali/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Salah Musali - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server14.mp3quran.net/musali/114.mp3

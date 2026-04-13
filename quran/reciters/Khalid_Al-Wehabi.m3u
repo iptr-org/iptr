@@ -1,0 +1,59 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server11.mp3quran.net/whabi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server11.mp3quran.net/whabi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server11.mp3quran.net/whabi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server11.mp3quran.net/whabi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server11.mp3quran.net/whabi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server11.mp3quran.net/whabi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server11.mp3quran.net/whabi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server11.mp3quran.net/whabi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server11.mp3quran.net/whabi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server11.mp3quran.net/whabi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server11.mp3quran.net/whabi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server11.mp3quran.net/whabi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server11.mp3quran.net/whabi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server11.mp3quran.net/whabi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server11.mp3quran.net/whabi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server11.mp3quran.net/whabi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server11.mp3quran.net/whabi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server11.mp3quran.net/whabi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server11.mp3quran.net/whabi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server11.mp3quran.net/whabi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server11.mp3quran.net/whabi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server11.mp3quran.net/whabi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server11.mp3quran.net/whabi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server11.mp3quran.net/whabi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Khalid Al-Wehabi - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server11.mp3quran.net/whabi/032.mp3

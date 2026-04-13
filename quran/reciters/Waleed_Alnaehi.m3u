@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/waleed/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/waleed/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/waleed/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/waleed/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/waleed/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/waleed/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/waleed/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/waleed/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/waleed/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",010 - Yunus
+https://server9.mp3quran.net/waleed/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",011 - Hood
+https://server9.mp3quran.net/waleed/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",012 - Yusuf
+https://server9.mp3quran.net/waleed/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/waleed/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/waleed/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/waleed/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/waleed/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/waleed/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/waleed/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",019 - Maryam
+https://server9.mp3quran.net/waleed/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/waleed/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/waleed/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/waleed/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/waleed/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",024 - An-Nur
+https://server9.mp3quran.net/waleed/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/waleed/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/waleed/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",027 - An-Naml
+https://server9.mp3quran.net/waleed/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/waleed/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/waleed/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/waleed/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",031 - Luqman
+https://server9.mp3quran.net/waleed/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/waleed/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/waleed/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",034 - Saba'
+https://server9.mp3quran.net/waleed/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",035 - Fatir
+https://server9.mp3quran.net/waleed/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/waleed/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/waleed/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",038 - Sad
+https://server9.mp3quran.net/waleed/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/waleed/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",040 - Ghafir
+https://server9.mp3quran.net/waleed/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",041 - Fussilat
+https://server9.mp3quran.net/waleed/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/waleed/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/waleed/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/waleed/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/waleed/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/waleed/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",047 - Muhammad
+https://server9.mp3quran.net/waleed/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/waleed/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/waleed/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",050 - Qaf
+https://server9.mp3quran.net/waleed/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/waleed/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",052 - At-Tur
+https://server9.mp3quran.net/waleed/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",053 - An-Najm
+https://server9.mp3quran.net/waleed/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/waleed/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/waleed/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/waleed/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/waleed/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/waleed/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/waleed/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/waleed/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",061 - As-Saff
+https://server9.mp3quran.net/waleed/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/waleed/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/waleed/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/waleed/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/waleed/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/waleed/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/waleed/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/waleed/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/waleed/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/waleed/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",071 - Nooh
+https://server9.mp3quran.net/waleed/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/waleed/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/waleed/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/waleed/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/waleed/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/waleed/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/waleed/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/waleed/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/waleed/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",080 - Abasa
+https://server9.mp3quran.net/waleed/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/waleed/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/waleed/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/waleed/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/waleed/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/waleed/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/waleed/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/waleed/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/waleed/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/waleed/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/waleed/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/waleed/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/waleed/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/waleed/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/waleed/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",095 - At-Tin
+https://server9.mp3quran.net/waleed/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/waleed/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/waleed/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/waleed/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/waleed/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/waleed/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/waleed/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/waleed/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/waleed/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/waleed/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/waleed/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",106 - Quraish
+https://server9.mp3quran.net/waleed/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/waleed/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/waleed/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/waleed/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/waleed/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/waleed/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/waleed/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/waleed/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Waleed Alnaehi - Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet - Murattal",114 - An-Nas
+https://server9.mp3quran.net/waleed/114.mp3

@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/omar_warsh/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/omar_warsh/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/omar_warsh/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/omar_warsh/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/omar_warsh/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/omar_warsh/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/omar_warsh/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/omar_warsh/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/omar_warsh/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",010 - Yunus
+https://server9.mp3quran.net/omar_warsh/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",011 - Hood
+https://server9.mp3quran.net/omar_warsh/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",012 - Yusuf
+https://server9.mp3quran.net/omar_warsh/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/omar_warsh/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/omar_warsh/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/omar_warsh/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/omar_warsh/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/omar_warsh/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/omar_warsh/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",019 - Maryam
+https://server9.mp3quran.net/omar_warsh/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/omar_warsh/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/omar_warsh/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/omar_warsh/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/omar_warsh/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",024 - An-Nur
+https://server9.mp3quran.net/omar_warsh/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/omar_warsh/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/omar_warsh/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",027 - An-Naml
+https://server9.mp3quran.net/omar_warsh/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/omar_warsh/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/omar_warsh/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/omar_warsh/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",031 - Luqman
+https://server9.mp3quran.net/omar_warsh/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/omar_warsh/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/omar_warsh/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",034 - Saba'
+https://server9.mp3quran.net/omar_warsh/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",035 - Fatir
+https://server9.mp3quran.net/omar_warsh/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/omar_warsh/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/omar_warsh/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",038 - Sad
+https://server9.mp3quran.net/omar_warsh/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/omar_warsh/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",040 - Ghafir
+https://server9.mp3quran.net/omar_warsh/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",041 - Fussilat
+https://server9.mp3quran.net/omar_warsh/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/omar_warsh/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/omar_warsh/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/omar_warsh/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/omar_warsh/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/omar_warsh/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",047 - Muhammad
+https://server9.mp3quran.net/omar_warsh/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/omar_warsh/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/omar_warsh/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",050 - Qaf
+https://server9.mp3quran.net/omar_warsh/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/omar_warsh/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",052 - At-Tur
+https://server9.mp3quran.net/omar_warsh/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",053 - An-Najm
+https://server9.mp3quran.net/omar_warsh/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/omar_warsh/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/omar_warsh/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/omar_warsh/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/omar_warsh/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/omar_warsh/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/omar_warsh/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/omar_warsh/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",061 - As-Saff
+https://server9.mp3quran.net/omar_warsh/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/omar_warsh/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/omar_warsh/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/omar_warsh/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/omar_warsh/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/omar_warsh/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/omar_warsh/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/omar_warsh/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/omar_warsh/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/omar_warsh/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",071 - Nooh
+https://server9.mp3quran.net/omar_warsh/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/omar_warsh/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/omar_warsh/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/omar_warsh/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/omar_warsh/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/omar_warsh/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/omar_warsh/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/omar_warsh/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/omar_warsh/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",080 - Abasa
+https://server9.mp3quran.net/omar_warsh/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/omar_warsh/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/omar_warsh/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/omar_warsh/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/omar_warsh/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/omar_warsh/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/omar_warsh/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/omar_warsh/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/omar_warsh/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/omar_warsh/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/omar_warsh/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/omar_warsh/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/omar_warsh/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/omar_warsh/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/omar_warsh/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",095 - At-Tin
+https://server9.mp3quran.net/omar_warsh/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/omar_warsh/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/omar_warsh/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/omar_warsh/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/omar_warsh/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/omar_warsh/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/omar_warsh/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/omar_warsh/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/omar_warsh/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/omar_warsh/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/omar_warsh/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",106 - Quraish
+https://server9.mp3quran.net/omar_warsh/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/omar_warsh/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/omar_warsh/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/omar_warsh/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/omar_warsh/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/omar_warsh/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/omar_warsh/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/omar_warsh/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Omar Al-Qazabri - Rewayat Warsh A'n Nafi' - Murattal",114 - An-Nas
+https://server9.mp3quran.net/omar_warsh/114.mp3

@@ -1,0 +1,465 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",001 - Al-Fatihah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",002 - Al-Baqarah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",003 - Aal Imran
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",004 - An-Nisa'
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",005 - Al-Ma'idah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",006 - Al-An'am
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",007 - Al-A'raf
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",008 - Al-Anfal
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",009 - At-Taubah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",010 - Yunus
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",011 - Hood
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",012 - Yusuf
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",013 - Ar-Ra'd
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",014 - Ibrahim
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",015 - Al-Hijr
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",016 - An-Nahl
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",017 - Al-Isra
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",018 - Al-Kahf
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",019 - Maryam
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",020 - Ta­Ha
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",021 - Al-Anbiya'
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",022 - Al-Hajj
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",023 - Al-Mu'minun
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",024 - An-Nur
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",025 - Al-Furqan
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",026 - Ash-Shu'ara'
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",027 - An-Naml
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",028 - Al-Qasas
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",029 - Al-'Ankabut
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",030 - Ar­Room
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",031 - Luqman
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",032 - As­Sajdah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",033 - Al­Ahzab
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",034 - Saba'
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",035 - Fatir
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",036 - Ya­Sin
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",037 - As-Saffat
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",038 - Sad
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",039 - Az-Zumar
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",040 - Ghafir
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",041 - Fussilat
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",042 - Ash-Shura
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",043 - Az-Zukhruf
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",044 - Ad-Dukhan
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",045 - Al-Jathiya
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",046 - Al-Ahqaf
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",047 - Muhammad
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",048 - Al-Fath
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",049 - Al-Hujurat
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",050 - Qaf
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",051 - Az-Zariyat
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",052 - At-Tur
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",053 - An-Najm
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",054 - Al-Qamar
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",055 - Ar-Rahman
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",056 - Al-Waqi'ah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",057 - Al-Hadid
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",058 - Al-Mujadilah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",059 - Al-Hashr
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",060 - Al-Mumtahinah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",061 - As-Saff
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",062 - Al-Jumu'ah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",063 - Al-Munafiqun
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",064 - At-Taghabun
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",065 - At-Talaq
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",066 - At-Tahrim
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",067 - Al-Mulk
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",068 - Al-Qalam
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",069 - Al-Haqqah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",070 - Al-Ma'arij
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",071 - Nooh
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",072 - Al-Jinn
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",073 - Al-Muzzammil
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",074 - Al-Muddaththir
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",075 - Al-Qiyamah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",076 - Al-Insan
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",077 - Al-Mursalat
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",078 - An-Naba'
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",079 - An-Nazi'at
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",080 - Abasa
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",081 - At-Takwir
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",082 - Al-Infitar
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",083 - Al-Mutaffifin
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",084 - Al-Inshiqaq
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",085 - Al-Buruj
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",086 - At-Tariq
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",087 - Al-A'la
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",088 - Al-Ghashiyah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",089 - Al-Fajr
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",090 - Al-Balad
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",091 - Ash-Shams
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",092 - Al-Lail
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",093 - Ad-Duha
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",094 - Ash-Sharh
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",095 - At-Tin
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",096 - Al-'Alaq
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",097 - Al-Qadr
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",098 - Al-Baiyinah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",099 - Az-Zalzalah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",100 - Al-'Adiyat
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",101 - Al-Qari'ah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",102 - At-Takathur
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",103 - Al-'Asr
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",104 - Al-Humazah
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",105 - Al-Fil
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",106 - Quraish
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",107 - Al-Ma'un
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",108 - Al-Kauthar
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",109 - Al-Kafirun
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",110 - An-Nasr
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",111 - Al-Masad
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",112 - Al-Ikhlas
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",113 - Al-Falaq
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Warsh A'n Nafi' Men  Tariq Abi Baker Alasbahani - Murattal",114 - An-Nas
+https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server12.mp3quran.net/m_krm/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server12.mp3quran.net/m_krm/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server12.mp3quran.net/m_krm/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server12.mp3quran.net/m_krm/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server12.mp3quran.net/m_krm/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server12.mp3quran.net/m_krm/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server12.mp3quran.net/m_krm/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server12.mp3quran.net/m_krm/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server12.mp3quran.net/m_krm/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server12.mp3quran.net/m_krm/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server12.mp3quran.net/m_krm/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server12.mp3quran.net/m_krm/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server12.mp3quran.net/m_krm/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server12.mp3quran.net/m_krm/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server12.mp3quran.net/m_krm/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server12.mp3quran.net/m_krm/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server12.mp3quran.net/m_krm/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server12.mp3quran.net/m_krm/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server12.mp3quran.net/m_krm/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server12.mp3quran.net/m_krm/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server12.mp3quran.net/m_krm/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server12.mp3quran.net/m_krm/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server12.mp3quran.net/m_krm/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server12.mp3quran.net/m_krm/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server12.mp3quran.net/m_krm/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server12.mp3quran.net/m_krm/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server12.mp3quran.net/m_krm/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server12.mp3quran.net/m_krm/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server12.mp3quran.net/m_krm/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server12.mp3quran.net/m_krm/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server12.mp3quran.net/m_krm/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server12.mp3quran.net/m_krm/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server12.mp3quran.net/m_krm/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server12.mp3quran.net/m_krm/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server12.mp3quran.net/m_krm/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server12.mp3quran.net/m_krm/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server12.mp3quran.net/m_krm/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server12.mp3quran.net/m_krm/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server12.mp3quran.net/m_krm/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server12.mp3quran.net/m_krm/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server12.mp3quran.net/m_krm/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server12.mp3quran.net/m_krm/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server12.mp3quran.net/m_krm/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server12.mp3quran.net/m_krm/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server12.mp3quran.net/m_krm/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server12.mp3quran.net/m_krm/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server12.mp3quran.net/m_krm/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server12.mp3quran.net/m_krm/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server12.mp3quran.net/m_krm/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server12.mp3quran.net/m_krm/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server12.mp3quran.net/m_krm/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server12.mp3quran.net/m_krm/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server12.mp3quran.net/m_krm/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server12.mp3quran.net/m_krm/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server12.mp3quran.net/m_krm/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server12.mp3quran.net/m_krm/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server12.mp3quran.net/m_krm/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server12.mp3quran.net/m_krm/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server12.mp3quran.net/m_krm/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server12.mp3quran.net/m_krm/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server12.mp3quran.net/m_krm/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server12.mp3quran.net/m_krm/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server12.mp3quran.net/m_krm/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server12.mp3quran.net/m_krm/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server12.mp3quran.net/m_krm/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server12.mp3quran.net/m_krm/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server12.mp3quran.net/m_krm/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server12.mp3quran.net/m_krm/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server12.mp3quran.net/m_krm/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server12.mp3quran.net/m_krm/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server12.mp3quran.net/m_krm/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server12.mp3quran.net/m_krm/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server12.mp3quran.net/m_krm/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server12.mp3quran.net/m_krm/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server12.mp3quran.net/m_krm/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server12.mp3quran.net/m_krm/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server12.mp3quran.net/m_krm/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server12.mp3quran.net/m_krm/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server12.mp3quran.net/m_krm/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server12.mp3quran.net/m_krm/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server12.mp3quran.net/m_krm/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server12.mp3quran.net/m_krm/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server12.mp3quran.net/m_krm/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server12.mp3quran.net/m_krm/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server12.mp3quran.net/m_krm/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server12.mp3quran.net/m_krm/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server12.mp3quran.net/m_krm/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server12.mp3quran.net/m_krm/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server12.mp3quran.net/m_krm/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server12.mp3quran.net/m_krm/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server12.mp3quran.net/m_krm/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server12.mp3quran.net/m_krm/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server12.mp3quran.net/m_krm/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server12.mp3quran.net/m_krm/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server12.mp3quran.net/m_krm/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server12.mp3quran.net/m_krm/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server12.mp3quran.net/m_krm/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server12.mp3quran.net/m_krm/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server12.mp3quran.net/m_krm/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server12.mp3quran.net/m_krm/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server12.mp3quran.net/m_krm/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server12.mp3quran.net/m_krm/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server12.mp3quran.net/m_krm/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server12.mp3quran.net/m_krm/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server12.mp3quran.net/m_krm/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server12.mp3quran.net/m_krm/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server12.mp3quran.net/m_krm/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server12.mp3quran.net/m_krm/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server12.mp3quran.net/m_krm/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server12.mp3quran.net/m_krm/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server12.mp3quran.net/m_krm/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server12.mp3quran.net/m_krm/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server12.mp3quran.net/m_krm/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Mohammad Abdullkarem - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server12.mp3quran.net/m_krm/114.mp3

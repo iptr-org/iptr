@@ -1,0 +1,139 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server11.mp3quran.net/shaban/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server11.mp3quran.net/shaban/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server11.mp3quran.net/shaban/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server11.mp3quran.net/shaban/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server11.mp3quran.net/shaban/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server11.mp3quran.net/shaban/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server11.mp3quran.net/shaban/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server11.mp3quran.net/shaban/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server11.mp3quran.net/shaban/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server11.mp3quran.net/shaban/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server11.mp3quran.net/shaban/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server11.mp3quran.net/shaban/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server11.mp3quran.net/shaban/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server11.mp3quran.net/shaban/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server11.mp3quran.net/shaban/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server11.mp3quran.net/shaban/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server11.mp3quran.net/shaban/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server11.mp3quran.net/shaban/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server11.mp3quran.net/shaban/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server11.mp3quran.net/shaban/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server11.mp3quran.net/shaban/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server11.mp3quran.net/shaban/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server11.mp3quran.net/shaban/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server11.mp3quran.net/shaban/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server11.mp3quran.net/shaban/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server11.mp3quran.net/shaban/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server11.mp3quran.net/shaban/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server11.mp3quran.net/shaban/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server11.mp3quran.net/shaban/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server11.mp3quran.net/shaban/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server11.mp3quran.net/shaban/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server11.mp3quran.net/shaban/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server11.mp3quran.net/shaban/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server11.mp3quran.net/shaban/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server11.mp3quran.net/shaban/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server11.mp3quran.net/shaban/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server11.mp3quran.net/shaban/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server11.mp3quran.net/shaban/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server11.mp3quran.net/shaban/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server11.mp3quran.net/shaban/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server11.mp3quran.net/shaban/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server11.mp3quran.net/shaban/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server11.mp3quran.net/shaban/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server11.mp3quran.net/shaban/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server11.mp3quran.net/shaban/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server11.mp3quran.net/shaban/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server11.mp3quran.net/shaban/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server11.mp3quran.net/shaban/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server11.mp3quran.net/shaban/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server11.mp3quran.net/shaban/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server11.mp3quran.net/shaban/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server11.mp3quran.net/shaban/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server11.mp3quran.net/shaban/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server11.mp3quran.net/shaban/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server11.mp3quran.net/shaban/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server11.mp3quran.net/shaban/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server11.mp3quran.net/shaban/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server11.mp3quran.net/shaban/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server11.mp3quran.net/shaban/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server11.mp3quran.net/shaban/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server11.mp3quran.net/shaban/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server11.mp3quran.net/shaban/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server11.mp3quran.net/shaban/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server11.mp3quran.net/shaban/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaban Al-Sayiaad - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server11.mp3quran.net/shaban/105.mp3

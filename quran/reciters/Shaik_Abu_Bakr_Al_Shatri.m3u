@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server11.mp3quran.net/shatri/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server11.mp3quran.net/shatri/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server11.mp3quran.net/shatri/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server11.mp3quran.net/shatri/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server11.mp3quran.net/shatri/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server11.mp3quran.net/shatri/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server11.mp3quran.net/shatri/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server11.mp3quran.net/shatri/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server11.mp3quran.net/shatri/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server11.mp3quran.net/shatri/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server11.mp3quran.net/shatri/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server11.mp3quran.net/shatri/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server11.mp3quran.net/shatri/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server11.mp3quran.net/shatri/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server11.mp3quran.net/shatri/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server11.mp3quran.net/shatri/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server11.mp3quran.net/shatri/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server11.mp3quran.net/shatri/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server11.mp3quran.net/shatri/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server11.mp3quran.net/shatri/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server11.mp3quran.net/shatri/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server11.mp3quran.net/shatri/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server11.mp3quran.net/shatri/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server11.mp3quran.net/shatri/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server11.mp3quran.net/shatri/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server11.mp3quran.net/shatri/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server11.mp3quran.net/shatri/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server11.mp3quran.net/shatri/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server11.mp3quran.net/shatri/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server11.mp3quran.net/shatri/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server11.mp3quran.net/shatri/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server11.mp3quran.net/shatri/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server11.mp3quran.net/shatri/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server11.mp3quran.net/shatri/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server11.mp3quran.net/shatri/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server11.mp3quran.net/shatri/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server11.mp3quran.net/shatri/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server11.mp3quran.net/shatri/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server11.mp3quran.net/shatri/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server11.mp3quran.net/shatri/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server11.mp3quran.net/shatri/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server11.mp3quran.net/shatri/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server11.mp3quran.net/shatri/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server11.mp3quran.net/shatri/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server11.mp3quran.net/shatri/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server11.mp3quran.net/shatri/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server11.mp3quran.net/shatri/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server11.mp3quran.net/shatri/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server11.mp3quran.net/shatri/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server11.mp3quran.net/shatri/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server11.mp3quran.net/shatri/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server11.mp3quran.net/shatri/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server11.mp3quran.net/shatri/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server11.mp3quran.net/shatri/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server11.mp3quran.net/shatri/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server11.mp3quran.net/shatri/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server11.mp3quran.net/shatri/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server11.mp3quran.net/shatri/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server11.mp3quran.net/shatri/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server11.mp3quran.net/shatri/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server11.mp3quran.net/shatri/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server11.mp3quran.net/shatri/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server11.mp3quran.net/shatri/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server11.mp3quran.net/shatri/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server11.mp3quran.net/shatri/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server11.mp3quran.net/shatri/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server11.mp3quran.net/shatri/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server11.mp3quran.net/shatri/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server11.mp3quran.net/shatri/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server11.mp3quran.net/shatri/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server11.mp3quran.net/shatri/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server11.mp3quran.net/shatri/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server11.mp3quran.net/shatri/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server11.mp3quran.net/shatri/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server11.mp3quran.net/shatri/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server11.mp3quran.net/shatri/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server11.mp3quran.net/shatri/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server11.mp3quran.net/shatri/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server11.mp3quran.net/shatri/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server11.mp3quran.net/shatri/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server11.mp3quran.net/shatri/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server11.mp3quran.net/shatri/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server11.mp3quran.net/shatri/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server11.mp3quran.net/shatri/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server11.mp3quran.net/shatri/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server11.mp3quran.net/shatri/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server11.mp3quran.net/shatri/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server11.mp3quran.net/shatri/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server11.mp3quran.net/shatri/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server11.mp3quran.net/shatri/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server11.mp3quran.net/shatri/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server11.mp3quran.net/shatri/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server11.mp3quran.net/shatri/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server11.mp3quran.net/shatri/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server11.mp3quran.net/shatri/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server11.mp3quran.net/shatri/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server11.mp3quran.net/shatri/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server11.mp3quran.net/shatri/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server11.mp3quran.net/shatri/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server11.mp3quran.net/shatri/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server11.mp3quran.net/shatri/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server11.mp3quran.net/shatri/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server11.mp3quran.net/shatri/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server11.mp3quran.net/shatri/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server11.mp3quran.net/shatri/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server11.mp3quran.net/shatri/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server11.mp3quran.net/shatri/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server11.mp3quran.net/shatri/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server11.mp3quran.net/shatri/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server11.mp3quran.net/shatri/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server11.mp3quran.net/shatri/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server11.mp3quran.net/shatri/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server11.mp3quran.net/shatri/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Shaik Abu Bakr Al Shatri - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server11.mp3quran.net/shatri/114.mp3

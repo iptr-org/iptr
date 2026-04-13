@@ -1,0 +1,693 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",010 - Yunus
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",011 - Hood
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",012 - Yusuf
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",019 - Maryam
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",024 - An-Nur
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",027 - An-Naml
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",031 - Luqman
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",034 - Saba'
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",035 - Fatir
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",038 - Sad
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",040 - Ghafir
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",041 - Fussilat
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",047 - Muhammad
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",050 - Qaf
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",052 - At-Tur
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",053 - An-Najm
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",061 - As-Saff
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",071 - Nooh
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",080 - Abasa
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",095 - At-Tin
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",106 - Quraish
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Sho'bah A'n Asim - Murattal",114 - An-Nas
+https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/huthifi_qalon/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/huthifi_qalon/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/huthifi_qalon/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/huthifi_qalon/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/huthifi_qalon/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/huthifi_qalon/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/huthifi_qalon/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/huthifi_qalon/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/huthifi_qalon/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",010 - Yunus
+https://server9.mp3quran.net/huthifi_qalon/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",011 - Hood
+https://server9.mp3quran.net/huthifi_qalon/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",012 - Yusuf
+https://server9.mp3quran.net/huthifi_qalon/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/huthifi_qalon/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/huthifi_qalon/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/huthifi_qalon/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/huthifi_qalon/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/huthifi_qalon/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/huthifi_qalon/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",019 - Maryam
+https://server9.mp3quran.net/huthifi_qalon/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/huthifi_qalon/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/huthifi_qalon/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/huthifi_qalon/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/huthifi_qalon/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",024 - An-Nur
+https://server9.mp3quran.net/huthifi_qalon/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/huthifi_qalon/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/huthifi_qalon/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",027 - An-Naml
+https://server9.mp3quran.net/huthifi_qalon/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/huthifi_qalon/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/huthifi_qalon/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/huthifi_qalon/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",031 - Luqman
+https://server9.mp3quran.net/huthifi_qalon/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/huthifi_qalon/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/huthifi_qalon/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",034 - Saba'
+https://server9.mp3quran.net/huthifi_qalon/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",035 - Fatir
+https://server9.mp3quran.net/huthifi_qalon/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/huthifi_qalon/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/huthifi_qalon/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",038 - Sad
+https://server9.mp3quran.net/huthifi_qalon/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/huthifi_qalon/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",040 - Ghafir
+https://server9.mp3quran.net/huthifi_qalon/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",041 - Fussilat
+https://server9.mp3quran.net/huthifi_qalon/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/huthifi_qalon/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/huthifi_qalon/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/huthifi_qalon/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/huthifi_qalon/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/huthifi_qalon/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",047 - Muhammad
+https://server9.mp3quran.net/huthifi_qalon/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/huthifi_qalon/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/huthifi_qalon/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",050 - Qaf
+https://server9.mp3quran.net/huthifi_qalon/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/huthifi_qalon/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",052 - At-Tur
+https://server9.mp3quran.net/huthifi_qalon/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",053 - An-Najm
+https://server9.mp3quran.net/huthifi_qalon/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/huthifi_qalon/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/huthifi_qalon/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/huthifi_qalon/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/huthifi_qalon/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/huthifi_qalon/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/huthifi_qalon/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/huthifi_qalon/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",061 - As-Saff
+https://server9.mp3quran.net/huthifi_qalon/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/huthifi_qalon/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/huthifi_qalon/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/huthifi_qalon/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/huthifi_qalon/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/huthifi_qalon/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/huthifi_qalon/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/huthifi_qalon/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/huthifi_qalon/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/huthifi_qalon/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",071 - Nooh
+https://server9.mp3quran.net/huthifi_qalon/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/huthifi_qalon/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/huthifi_qalon/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/huthifi_qalon/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/huthifi_qalon/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/huthifi_qalon/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/huthifi_qalon/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/huthifi_qalon/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/huthifi_qalon/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",080 - Abasa
+https://server9.mp3quran.net/huthifi_qalon/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/huthifi_qalon/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/huthifi_qalon/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/huthifi_qalon/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/huthifi_qalon/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/huthifi_qalon/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/huthifi_qalon/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/huthifi_qalon/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/huthifi_qalon/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/huthifi_qalon/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/huthifi_qalon/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/huthifi_qalon/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/huthifi_qalon/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/huthifi_qalon/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/huthifi_qalon/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",095 - At-Tin
+https://server9.mp3quran.net/huthifi_qalon/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/huthifi_qalon/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/huthifi_qalon/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/huthifi_qalon/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/huthifi_qalon/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/huthifi_qalon/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/huthifi_qalon/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/huthifi_qalon/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/huthifi_qalon/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/huthifi_qalon/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/huthifi_qalon/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",106 - Quraish
+https://server9.mp3quran.net/huthifi_qalon/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/huthifi_qalon/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/huthifi_qalon/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/huthifi_qalon/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/huthifi_qalon/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/huthifi_qalon/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/huthifi_qalon/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/huthifi_qalon/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Qalon A'n Nafi' - Murattal",114 - An-Nas
+https://server9.mp3quran.net/huthifi_qalon/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server9.mp3quran.net/hthfi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server9.mp3quran.net/hthfi/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server9.mp3quran.net/hthfi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server9.mp3quran.net/hthfi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server9.mp3quran.net/hthfi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server9.mp3quran.net/hthfi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server9.mp3quran.net/hthfi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server9.mp3quran.net/hthfi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server9.mp3quran.net/hthfi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server9.mp3quran.net/hthfi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server9.mp3quran.net/hthfi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server9.mp3quran.net/hthfi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server9.mp3quran.net/hthfi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server9.mp3quran.net/hthfi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server9.mp3quran.net/hthfi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server9.mp3quran.net/hthfi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server9.mp3quran.net/hthfi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server9.mp3quran.net/hthfi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server9.mp3quran.net/hthfi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server9.mp3quran.net/hthfi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server9.mp3quran.net/hthfi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server9.mp3quran.net/hthfi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server9.mp3quran.net/hthfi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server9.mp3quran.net/hthfi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server9.mp3quran.net/hthfi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server9.mp3quran.net/hthfi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server9.mp3quran.net/hthfi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server9.mp3quran.net/hthfi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server9.mp3quran.net/hthfi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server9.mp3quran.net/hthfi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server9.mp3quran.net/hthfi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server9.mp3quran.net/hthfi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server9.mp3quran.net/hthfi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server9.mp3quran.net/hthfi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server9.mp3quran.net/hthfi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server9.mp3quran.net/hthfi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server9.mp3quran.net/hthfi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server9.mp3quran.net/hthfi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server9.mp3quran.net/hthfi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server9.mp3quran.net/hthfi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server9.mp3quran.net/hthfi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server9.mp3quran.net/hthfi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server9.mp3quran.net/hthfi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server9.mp3quran.net/hthfi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server9.mp3quran.net/hthfi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server9.mp3quran.net/hthfi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server9.mp3quran.net/hthfi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server9.mp3quran.net/hthfi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server9.mp3quran.net/hthfi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server9.mp3quran.net/hthfi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server9.mp3quran.net/hthfi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server9.mp3quran.net/hthfi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server9.mp3quran.net/hthfi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server9.mp3quran.net/hthfi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server9.mp3quran.net/hthfi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server9.mp3quran.net/hthfi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server9.mp3quran.net/hthfi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server9.mp3quran.net/hthfi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server9.mp3quran.net/hthfi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server9.mp3quran.net/hthfi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server9.mp3quran.net/hthfi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server9.mp3quran.net/hthfi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server9.mp3quran.net/hthfi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server9.mp3quran.net/hthfi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server9.mp3quran.net/hthfi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server9.mp3quran.net/hthfi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server9.mp3quran.net/hthfi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server9.mp3quran.net/hthfi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server9.mp3quran.net/hthfi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server9.mp3quran.net/hthfi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server9.mp3quran.net/hthfi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server9.mp3quran.net/hthfi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server9.mp3quran.net/hthfi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server9.mp3quran.net/hthfi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server9.mp3quran.net/hthfi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server9.mp3quran.net/hthfi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server9.mp3quran.net/hthfi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server9.mp3quran.net/hthfi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server9.mp3quran.net/hthfi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server9.mp3quran.net/hthfi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server9.mp3quran.net/hthfi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server9.mp3quran.net/hthfi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server9.mp3quran.net/hthfi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server9.mp3quran.net/hthfi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server9.mp3quran.net/hthfi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server9.mp3quran.net/hthfi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server9.mp3quran.net/hthfi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server9.mp3quran.net/hthfi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server9.mp3quran.net/hthfi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server9.mp3quran.net/hthfi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server9.mp3quran.net/hthfi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server9.mp3quran.net/hthfi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server9.mp3quran.net/hthfi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server9.mp3quran.net/hthfi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server9.mp3quran.net/hthfi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server9.mp3quran.net/hthfi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server9.mp3quran.net/hthfi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server9.mp3quran.net/hthfi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server9.mp3quran.net/hthfi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server9.mp3quran.net/hthfi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server9.mp3quran.net/hthfi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server9.mp3quran.net/hthfi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server9.mp3quran.net/hthfi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server9.mp3quran.net/hthfi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server9.mp3quran.net/hthfi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server9.mp3quran.net/hthfi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server9.mp3quran.net/hthfi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server9.mp3quran.net/hthfi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server9.mp3quran.net/hthfi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server9.mp3quran.net/hthfi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server9.mp3quran.net/hthfi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server9.mp3quran.net/hthfi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server9.mp3quran.net/hthfi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ali Alhuthaifi - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server9.mp3quran.net/hthfi/114.mp3

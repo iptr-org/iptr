@@ -1,0 +1,465 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server10.mp3quran.net/trabulsi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server10.mp3quran.net/trabulsi/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server10.mp3quran.net/trabulsi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server10.mp3quran.net/trabulsi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server10.mp3quran.net/trabulsi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server10.mp3quran.net/trabulsi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server10.mp3quran.net/trabulsi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server10.mp3quran.net/trabulsi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server10.mp3quran.net/trabulsi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server10.mp3quran.net/trabulsi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server10.mp3quran.net/trabulsi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server10.mp3quran.net/trabulsi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server10.mp3quran.net/trabulsi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server10.mp3quran.net/trabulsi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server10.mp3quran.net/trabulsi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server10.mp3quran.net/trabulsi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server10.mp3quran.net/trabulsi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server10.mp3quran.net/trabulsi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server10.mp3quran.net/trabulsi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server10.mp3quran.net/trabulsi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server10.mp3quran.net/trabulsi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server10.mp3quran.net/trabulsi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server10.mp3quran.net/trabulsi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server10.mp3quran.net/trabulsi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server10.mp3quran.net/trabulsi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server10.mp3quran.net/trabulsi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server10.mp3quran.net/trabulsi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server10.mp3quran.net/trabulsi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server10.mp3quran.net/trabulsi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server10.mp3quran.net/trabulsi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server10.mp3quran.net/trabulsi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server10.mp3quran.net/trabulsi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server10.mp3quran.net/trabulsi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server10.mp3quran.net/trabulsi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server10.mp3quran.net/trabulsi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server10.mp3quran.net/trabulsi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server10.mp3quran.net/trabulsi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server10.mp3quran.net/trabulsi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server10.mp3quran.net/trabulsi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server10.mp3quran.net/trabulsi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server10.mp3quran.net/trabulsi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server10.mp3quran.net/trabulsi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server10.mp3quran.net/trabulsi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server10.mp3quran.net/trabulsi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server10.mp3quran.net/trabulsi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server10.mp3quran.net/trabulsi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server10.mp3quran.net/trabulsi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server10.mp3quran.net/trabulsi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server10.mp3quran.net/trabulsi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server10.mp3quran.net/trabulsi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server10.mp3quran.net/trabulsi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server10.mp3quran.net/trabulsi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server10.mp3quran.net/trabulsi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server10.mp3quran.net/trabulsi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server10.mp3quran.net/trabulsi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server10.mp3quran.net/trabulsi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server10.mp3quran.net/trabulsi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server10.mp3quran.net/trabulsi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server10.mp3quran.net/trabulsi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server10.mp3quran.net/trabulsi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server10.mp3quran.net/trabulsi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server10.mp3quran.net/trabulsi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server10.mp3quran.net/trabulsi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server10.mp3quran.net/trabulsi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server10.mp3quran.net/trabulsi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server10.mp3quran.net/trabulsi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server10.mp3quran.net/trabulsi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server10.mp3quran.net/trabulsi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server10.mp3quran.net/trabulsi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server10.mp3quran.net/trabulsi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server10.mp3quran.net/trabulsi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server10.mp3quran.net/trabulsi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server10.mp3quran.net/trabulsi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server10.mp3quran.net/trabulsi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server10.mp3quran.net/trabulsi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server10.mp3quran.net/trabulsi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server10.mp3quran.net/trabulsi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server10.mp3quran.net/trabulsi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server10.mp3quran.net/trabulsi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server10.mp3quran.net/trabulsi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server10.mp3quran.net/trabulsi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server10.mp3quran.net/trabulsi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server10.mp3quran.net/trabulsi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server10.mp3quran.net/trabulsi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server10.mp3quran.net/trabulsi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server10.mp3quran.net/trabulsi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server10.mp3quran.net/trabulsi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server10.mp3quran.net/trabulsi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server10.mp3quran.net/trabulsi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server10.mp3quran.net/trabulsi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server10.mp3quran.net/trabulsi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server10.mp3quran.net/trabulsi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server10.mp3quran.net/trabulsi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server10.mp3quran.net/trabulsi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server10.mp3quran.net/trabulsi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server10.mp3quran.net/trabulsi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server10.mp3quran.net/trabulsi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server10.mp3quran.net/trabulsi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server10.mp3quran.net/trabulsi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server10.mp3quran.net/trabulsi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server10.mp3quran.net/trabulsi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server10.mp3quran.net/trabulsi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server10.mp3quran.net/trabulsi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server10.mp3quran.net/trabulsi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server10.mp3quran.net/trabulsi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server10.mp3quran.net/trabulsi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server10.mp3quran.net/trabulsi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server10.mp3quran.net/trabulsi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server10.mp3quran.net/trabulsi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server10.mp3quran.net/trabulsi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server10.mp3quran.net/trabulsi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server10.mp3quran.net/trabulsi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server10.mp3quran.net/trabulsi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server10.mp3quran.net/trabulsi/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server10.mp3quran.net/trablsi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server10.mp3quran.net/trablsi/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",003 - Aal Imran
+https://server10.mp3quran.net/trablsi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",004 - An-Nisa'
+https://server10.mp3quran.net/trablsi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server10.mp3quran.net/trablsi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",006 - Al-An'am
+https://server10.mp3quran.net/trablsi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",007 - Al-A'raf
+https://server10.mp3quran.net/trablsi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",008 - Al-Anfal
+https://server10.mp3quran.net/trablsi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",009 - At-Taubah
+https://server10.mp3quran.net/trablsi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",010 - Yunus
+https://server10.mp3quran.net/trablsi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",011 - Hood
+https://server10.mp3quran.net/trablsi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",012 - Yusuf
+https://server10.mp3quran.net/trablsi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server10.mp3quran.net/trablsi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",014 - Ibrahim
+https://server10.mp3quran.net/trablsi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",015 - Al-Hijr
+https://server10.mp3quran.net/trablsi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",016 - An-Nahl
+https://server10.mp3quran.net/trablsi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",017 - Al-Isra
+https://server10.mp3quran.net/trablsi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",018 - Al-Kahf
+https://server10.mp3quran.net/trablsi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",019 - Maryam
+https://server10.mp3quran.net/trablsi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",020 - Ta­Ha
+https://server10.mp3quran.net/trablsi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server10.mp3quran.net/trablsi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",022 - Al-Hajj
+https://server10.mp3quran.net/trablsi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server10.mp3quran.net/trablsi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",024 - An-Nur
+https://server10.mp3quran.net/trablsi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",025 - Al-Furqan
+https://server10.mp3quran.net/trablsi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server10.mp3quran.net/trablsi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",027 - An-Naml
+https://server10.mp3quran.net/trablsi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",028 - Al-Qasas
+https://server10.mp3quran.net/trablsi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server10.mp3quran.net/trablsi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",030 - Ar­Room
+https://server10.mp3quran.net/trablsi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",031 - Luqman
+https://server10.mp3quran.net/trablsi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",032 - As­Sajdah
+https://server10.mp3quran.net/trablsi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server10.mp3quran.net/trablsi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",034 - Saba'
+https://server10.mp3quran.net/trablsi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",035 - Fatir
+https://server10.mp3quran.net/trablsi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",036 - Ya­Sin
+https://server10.mp3quran.net/trablsi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",037 - As-Saffat
+https://server10.mp3quran.net/trablsi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",038 - Sad
+https://server10.mp3quran.net/trablsi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",039 - Az-Zumar
+https://server10.mp3quran.net/trablsi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",040 - Ghafir
+https://server10.mp3quran.net/trablsi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",041 - Fussilat
+https://server10.mp3quran.net/trablsi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",042 - Ash-Shura
+https://server10.mp3quran.net/trablsi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server10.mp3quran.net/trablsi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server10.mp3quran.net/trablsi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server10.mp3quran.net/trablsi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server10.mp3quran.net/trablsi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",047 - Muhammad
+https://server10.mp3quran.net/trablsi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",048 - Al-Fath
+https://server10.mp3quran.net/trablsi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server10.mp3quran.net/trablsi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",050 - Qaf
+https://server10.mp3quran.net/trablsi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server10.mp3quran.net/trablsi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",052 - At-Tur
+https://server10.mp3quran.net/trablsi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",053 - An-Najm
+https://server10.mp3quran.net/trablsi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",054 - Al-Qamar
+https://server10.mp3quran.net/trablsi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server10.mp3quran.net/trablsi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server10.mp3quran.net/trablsi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",057 - Al-Hadid
+https://server10.mp3quran.net/trablsi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server10.mp3quran.net/trablsi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",059 - Al-Hashr
+https://server10.mp3quran.net/trablsi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server10.mp3quran.net/trablsi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",061 - As-Saff
+https://server10.mp3quran.net/trablsi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server10.mp3quran.net/trablsi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server10.mp3quran.net/trablsi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",064 - At-Taghabun
+https://server10.mp3quran.net/trablsi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",065 - At-Talaq
+https://server10.mp3quran.net/trablsi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",066 - At-Tahrim
+https://server10.mp3quran.net/trablsi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",067 - Al-Mulk
+https://server10.mp3quran.net/trablsi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",068 - Al-Qalam
+https://server10.mp3quran.net/trablsi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server10.mp3quran.net/trablsi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server10.mp3quran.net/trablsi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",071 - Nooh
+https://server10.mp3quran.net/trablsi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",072 - Al-Jinn
+https://server10.mp3quran.net/trablsi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server10.mp3quran.net/trablsi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server10.mp3quran.net/trablsi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server10.mp3quran.net/trablsi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",076 - Al-Insan
+https://server10.mp3quran.net/trablsi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server10.mp3quran.net/trablsi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",078 - An-Naba'
+https://server10.mp3quran.net/trablsi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server10.mp3quran.net/trablsi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",080 - Abasa
+https://server10.mp3quran.net/trablsi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",081 - At-Takwir
+https://server10.mp3quran.net/trablsi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",082 - Al-Infitar
+https://server10.mp3quran.net/trablsi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server10.mp3quran.net/trablsi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server10.mp3quran.net/trablsi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",085 - Al-Buruj
+https://server10.mp3quran.net/trablsi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",086 - At-Tariq
+https://server10.mp3quran.net/trablsi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",087 - Al-A'la
+https://server10.mp3quran.net/trablsi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server10.mp3quran.net/trablsi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",089 - Al-Fajr
+https://server10.mp3quran.net/trablsi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",090 - Al-Balad
+https://server10.mp3quran.net/trablsi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",091 - Ash-Shams
+https://server10.mp3quran.net/trablsi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",092 - Al-Lail
+https://server10.mp3quran.net/trablsi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",093 - Ad-Duha
+https://server10.mp3quran.net/trablsi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server10.mp3quran.net/trablsi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",095 - At-Tin
+https://server10.mp3quran.net/trablsi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server10.mp3quran.net/trablsi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",097 - Al-Qadr
+https://server10.mp3quran.net/trablsi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server10.mp3quran.net/trablsi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server10.mp3quran.net/trablsi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server10.mp3quran.net/trablsi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server10.mp3quran.net/trablsi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",102 - At-Takathur
+https://server10.mp3quran.net/trablsi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",103 - Al-'Asr
+https://server10.mp3quran.net/trablsi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",104 - Al-Humazah
+https://server10.mp3quran.net/trablsi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",105 - Al-Fil
+https://server10.mp3quran.net/trablsi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",106 - Quraish
+https://server10.mp3quran.net/trablsi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server10.mp3quran.net/trablsi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server10.mp3quran.net/trablsi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server10.mp3quran.net/trablsi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",110 - An-Nasr
+https://server10.mp3quran.net/trablsi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",111 - Al-Masad
+https://server10.mp3quran.net/trablsi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server10.mp3quran.net/trablsi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",113 - Al-Falaq
+https://server10.mp3quran.net/trablsi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ahmed Al-trabulsi - Rewayat Qalon A'n Nafi' - Murattal",114 - An-Nas
+https://server10.mp3quran.net/trablsi/114.mp3

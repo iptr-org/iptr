@@ -1,0 +1,237 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server11.mp3quran.net/qari/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server11.mp3quran.net/qari/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",003 - Aal Imran
+https://server11.mp3quran.net/qari/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",004 - An-Nisa'
+https://server11.mp3quran.net/qari/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server11.mp3quran.net/qari/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",006 - Al-An'am
+https://server11.mp3quran.net/qari/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",007 - Al-A'raf
+https://server11.mp3quran.net/qari/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",008 - Al-Anfal
+https://server11.mp3quran.net/qari/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",009 - At-Taubah
+https://server11.mp3quran.net/qari/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",010 - Yunus
+https://server11.mp3quran.net/qari/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",011 - Hood
+https://server11.mp3quran.net/qari/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",012 - Yusuf
+https://server11.mp3quran.net/qari/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server11.mp3quran.net/qari/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",014 - Ibrahim
+https://server11.mp3quran.net/qari/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",015 - Al-Hijr
+https://server11.mp3quran.net/qari/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",016 - An-Nahl
+https://server11.mp3quran.net/qari/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",017 - Al-Isra
+https://server11.mp3quran.net/qari/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",018 - Al-Kahf
+https://server11.mp3quran.net/qari/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",019 - Maryam
+https://server11.mp3quran.net/qari/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",020 - Ta­Ha
+https://server11.mp3quran.net/qari/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server11.mp3quran.net/qari/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",022 - Al-Hajj
+https://server11.mp3quran.net/qari/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server11.mp3quran.net/qari/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",024 - An-Nur
+https://server11.mp3quran.net/qari/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",025 - Al-Furqan
+https://server11.mp3quran.net/qari/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server11.mp3quran.net/qari/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",027 - An-Naml
+https://server11.mp3quran.net/qari/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",028 - Al-Qasas
+https://server11.mp3quran.net/qari/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server11.mp3quran.net/qari/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",030 - Ar­Room
+https://server11.mp3quran.net/qari/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",031 - Luqman
+https://server11.mp3quran.net/qari/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",032 - As­Sajdah
+https://server11.mp3quran.net/qari/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server11.mp3quran.net/qari/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",034 - Saba'
+https://server11.mp3quran.net/qari/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",035 - Fatir
+https://server11.mp3quran.net/qari/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",036 - Ya­Sin
+https://server11.mp3quran.net/qari/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",037 - As-Saffat
+https://server11.mp3quran.net/qari/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",038 - Sad
+https://server11.mp3quran.net/qari/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",039 - Az-Zumar
+https://server11.mp3quran.net/qari/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",040 - Ghafir
+https://server11.mp3quran.net/qari/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",041 - Fussilat
+https://server11.mp3quran.net/qari/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",042 - Ash-Shura
+https://server11.mp3quran.net/qari/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server11.mp3quran.net/qari/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server11.mp3quran.net/qari/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server11.mp3quran.net/qari/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server11.mp3quran.net/qari/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",047 - Muhammad
+https://server11.mp3quran.net/qari/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",048 - Al-Fath
+https://server11.mp3quran.net/qari/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server11.mp3quran.net/qari/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",050 - Qaf
+https://server11.mp3quran.net/qari/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server11.mp3quran.net/qari/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",052 - At-Tur
+https://server11.mp3quran.net/qari/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",053 - An-Najm
+https://server11.mp3quran.net/qari/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",054 - Al-Qamar
+https://server11.mp3quran.net/qari/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server11.mp3quran.net/qari/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server11.mp3quran.net/qari/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",057 - Al-Hadid
+https://server11.mp3quran.net/qari/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server11.mp3quran.net/qari/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",059 - Al-Hashr
+https://server11.mp3quran.net/qari/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server11.mp3quran.net/qari/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",061 - As-Saff
+https://server11.mp3quran.net/qari/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server11.mp3quran.net/qari/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server11.mp3quran.net/qari/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",064 - At-Taghabun
+https://server11.mp3quran.net/qari/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",065 - At-Talaq
+https://server11.mp3quran.net/qari/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",066 - At-Tahrim
+https://server11.mp3quran.net/qari/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",067 - Al-Mulk
+https://server11.mp3quran.net/qari/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",068 - Al-Qalam
+https://server11.mp3quran.net/qari/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server11.mp3quran.net/qari/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server11.mp3quran.net/qari/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",071 - Nooh
+https://server11.mp3quran.net/qari/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",072 - Al-Jinn
+https://server11.mp3quran.net/qari/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server11.mp3quran.net/qari/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server11.mp3quran.net/qari/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server11.mp3quran.net/qari/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",076 - Al-Insan
+https://server11.mp3quran.net/qari/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server11.mp3quran.net/qari/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",078 - An-Naba'
+https://server11.mp3quran.net/qari/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server11.mp3quran.net/qari/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",080 - Abasa
+https://server11.mp3quran.net/qari/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",081 - At-Takwir
+https://server11.mp3quran.net/qari/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",082 - Al-Infitar
+https://server11.mp3quran.net/qari/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server11.mp3quran.net/qari/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server11.mp3quran.net/qari/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",085 - Al-Buruj
+https://server11.mp3quran.net/qari/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",086 - At-Tariq
+https://server11.mp3quran.net/qari/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",087 - Al-A'la
+https://server11.mp3quran.net/qari/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server11.mp3quran.net/qari/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",089 - Al-Fajr
+https://server11.mp3quran.net/qari/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",090 - Al-Balad
+https://server11.mp3quran.net/qari/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",091 - Ash-Shams
+https://server11.mp3quran.net/qari/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",092 - Al-Lail
+https://server11.mp3quran.net/qari/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",093 - Ad-Duha
+https://server11.mp3quran.net/qari/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server11.mp3quran.net/qari/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",095 - At-Tin
+https://server11.mp3quran.net/qari/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server11.mp3quran.net/qari/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",097 - Al-Qadr
+https://server11.mp3quran.net/qari/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server11.mp3quran.net/qari/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server11.mp3quran.net/qari/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server11.mp3quran.net/qari/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server11.mp3quran.net/qari/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",102 - At-Takathur
+https://server11.mp3quran.net/qari/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",103 - Al-'Asr
+https://server11.mp3quran.net/qari/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",104 - Al-Humazah
+https://server11.mp3quran.net/qari/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",105 - Al-Fil
+https://server11.mp3quran.net/qari/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",106 - Quraish
+https://server11.mp3quran.net/qari/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server11.mp3quran.net/qari/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server11.mp3quran.net/qari/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server11.mp3quran.net/qari/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",110 - An-Nasr
+https://server11.mp3quran.net/qari/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",111 - Al-Masad
+https://server11.mp3quran.net/qari/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server11.mp3quran.net/qari/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",113 - Al-Falaq
+https://server11.mp3quran.net/qari/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Al-Qaria Yassen - Rewayat Warsh A'n Nafi' - Murattal",114 - An-Nas
+https://server11.mp3quran.net/qari/114.mp3

@@ -1,0 +1,465 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-IPTV-URL-TVG:https://iptv-org.github.io/epg/guides.xml
+#EXT-X-IPTV-LOGO:https://iptv-org.github.io/logos
+#EXT-X-IPTV-PLAYLIST-INFO:NAME="IPTR IPTV",VERSION="1.0",AUTHOR="IPTR"
+#EXT-X-IPTV-WEBSITE:https://www.iptr.org
+#EXT-X-IPTV-CONTACT:support@iptr.org
+#EXT-X-IPTV-DESCRIPTION:IPTR - Internet Protocol Television & Radio
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",001 - Al-Fatihah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",002 - Al-Baqarah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",003 - Aal Imran
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",004 - An-Nisa'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",005 - Al-Ma'idah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",006 - Al-An'am
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",007 - Al-A'raf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",008 - Al-Anfal
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",009 - At-Taubah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",010 - Yunus
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",011 - Hood
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",012 - Yusuf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",013 - Ar-Ra'd
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",014 - Ibrahim
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",015 - Al-Hijr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",016 - An-Nahl
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",017 - Al-Isra
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",018 - Al-Kahf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",019 - Maryam
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",020 - Ta­Ha
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",021 - Al-Anbiya'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",022 - Al-Hajj
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",023 - Al-Mu'minun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",024 - An-Nur
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",025 - Al-Furqan
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",026 - Ash-Shu'ara'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",027 - An-Naml
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",028 - Al-Qasas
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",029 - Al-'Ankabut
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",030 - Ar­Room
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",031 - Luqman
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",032 - As­Sajdah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",033 - Al­Ahzab
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",034 - Saba'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",035 - Fatir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",036 - Ya­Sin
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",037 - As-Saffat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",038 - Sad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",039 - Az-Zumar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",040 - Ghafir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",041 - Fussilat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",042 - Ash-Shura
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",043 - Az-Zukhruf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",044 - Ad-Dukhan
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",045 - Al-Jathiya
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",046 - Al-Ahqaf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",047 - Muhammad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",048 - Al-Fath
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",049 - Al-Hujurat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",050 - Qaf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",051 - Az-Zariyat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",052 - At-Tur
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",053 - An-Najm
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",054 - Al-Qamar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",055 - Ar-Rahman
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",056 - Al-Waqi'ah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",057 - Al-Hadid
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",058 - Al-Mujadilah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",059 - Al-Hashr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",060 - Al-Mumtahinah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",061 - As-Saff
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",062 - Al-Jumu'ah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",063 - Al-Munafiqun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",064 - At-Taghabun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",065 - At-Talaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",066 - At-Tahrim
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",067 - Al-Mulk
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",068 - Al-Qalam
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",069 - Al-Haqqah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",070 - Al-Ma'arij
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",071 - Nooh
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",072 - Al-Jinn
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",073 - Al-Muzzammil
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",074 - Al-Muddaththir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",075 - Al-Qiyamah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",076 - Al-Insan
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",077 - Al-Mursalat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",078 - An-Naba'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",079 - An-Nazi'at
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",080 - Abasa
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",081 - At-Takwir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",082 - Al-Infitar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",083 - Al-Mutaffifin
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",084 - Al-Inshiqaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",085 - Al-Buruj
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",086 - At-Tariq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",087 - Al-A'la
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",088 - Al-Ghashiyah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",089 - Al-Fajr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",090 - Al-Balad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",091 - Ash-Shams
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",092 - Al-Lail
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",093 - Ad-Duha
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",094 - Ash-Sharh
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",095 - At-Tin
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",096 - Al-'Alaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",097 - Al-Qadr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",098 - Al-Baiyinah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",099 - Az-Zalzalah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",100 - Al-'Adiyat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",101 - Al-Qari'ah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",102 - At-Takathur
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",103 - Al-'Asr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",104 - Al-Humazah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",105 - Al-Fil
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",106 - Quraish
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",107 - Al-Ma'un
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",108 - Al-Kauthar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",109 - Al-Kafirun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",110 - An-Nasr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",111 - Al-Masad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",112 - Al-Ikhlas
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",113 - Al-Falaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Hafs A'n Assem - Murattal",114 - An-Nas
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/114.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",001 - Al-Fatihah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/001.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",002 - Al-Baqarah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/002.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",003 - Aal Imran
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/003.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",004 - An-Nisa'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/004.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",005 - Al-Ma'idah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/005.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",006 - Al-An'am
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/006.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",007 - Al-A'raf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/007.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",008 - Al-Anfal
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/008.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",009 - At-Taubah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/009.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",010 - Yunus
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/010.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",011 - Hood
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/011.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",012 - Yusuf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/012.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",013 - Ar-Ra'd
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/013.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",014 - Ibrahim
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/014.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",015 - Al-Hijr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/015.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",016 - An-Nahl
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/016.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",017 - Al-Isra
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/017.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",018 - Al-Kahf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/018.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",019 - Maryam
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/019.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",020 - Ta­Ha
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/020.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",021 - Al-Anbiya'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/021.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",022 - Al-Hajj
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/022.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",023 - Al-Mu'minun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/023.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",024 - An-Nur
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/024.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",025 - Al-Furqan
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/025.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",026 - Ash-Shu'ara'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/026.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",027 - An-Naml
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/027.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",028 - Al-Qasas
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/028.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",029 - Al-'Ankabut
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/029.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",030 - Ar­Room
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/030.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",031 - Luqman
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/031.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",032 - As­Sajdah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/032.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",033 - Al­Ahzab
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/033.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",034 - Saba'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/034.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",035 - Fatir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/035.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",036 - Ya­Sin
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/036.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",037 - As-Saffat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/037.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",038 - Sad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/038.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",039 - Az-Zumar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/039.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",040 - Ghafir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/040.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",041 - Fussilat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/041.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",042 - Ash-Shura
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/042.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",043 - Az-Zukhruf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/043.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",044 - Ad-Dukhan
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/044.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",045 - Al-Jathiya
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/045.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",046 - Al-Ahqaf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/046.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",047 - Muhammad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/047.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",048 - Al-Fath
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/048.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",049 - Al-Hujurat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/049.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",050 - Qaf
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/050.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",051 - Az-Zariyat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/051.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",052 - At-Tur
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/052.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",053 - An-Najm
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/053.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",054 - Al-Qamar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/054.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",055 - Ar-Rahman
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/055.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",056 - Al-Waqi'ah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/056.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",057 - Al-Hadid
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/057.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",058 - Al-Mujadilah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/058.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",059 - Al-Hashr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/059.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",060 - Al-Mumtahinah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/060.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",061 - As-Saff
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/061.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",062 - Al-Jumu'ah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/062.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",063 - Al-Munafiqun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/063.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",064 - At-Taghabun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/064.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",065 - At-Talaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/065.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",066 - At-Tahrim
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/066.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",067 - Al-Mulk
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/067.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",068 - Al-Qalam
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/068.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",069 - Al-Haqqah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/069.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",070 - Al-Ma'arij
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/070.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",071 - Nooh
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/071.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",072 - Al-Jinn
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/072.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",073 - Al-Muzzammil
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/073.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",074 - Al-Muddaththir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/074.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",075 - Al-Qiyamah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/075.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",076 - Al-Insan
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/076.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",077 - Al-Mursalat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/077.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",078 - An-Naba'
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/078.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",079 - An-Nazi'at
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/079.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",080 - Abasa
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/080.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",081 - At-Takwir
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/081.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",082 - Al-Infitar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/082.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",083 - Al-Mutaffifin
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/083.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",084 - Al-Inshiqaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/084.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",085 - Al-Buruj
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/085.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",086 - At-Tariq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/086.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",087 - Al-A'la
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/087.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",088 - Al-Ghashiyah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/088.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",089 - Al-Fajr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/089.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",090 - Al-Balad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/090.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",091 - Ash-Shams
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/091.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",092 - Al-Lail
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/092.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",093 - Ad-Duha
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/093.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",094 - Ash-Sharh
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/094.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",095 - At-Tin
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/095.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",096 - Al-'Alaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/096.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",097 - Al-Qadr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/097.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",098 - Al-Baiyinah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/098.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",099 - Az-Zalzalah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/099.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",100 - Al-'Adiyat
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/100.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",101 - Al-Qari'ah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/101.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",102 - At-Takathur
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/102.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",103 - Al-'Asr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/103.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",104 - Al-Humazah
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/104.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",105 - Al-Fil
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/105.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",106 - Quraish
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/106.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",107 - Al-Ma'un
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/107.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",108 - Al-Kauthar
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/108.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",109 - Al-Kafirun
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/109.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",110 - An-Nasr
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/110.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",111 - Al-Masad
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/111.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",112 - Al-Ikhlas
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/112.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",113 - Al-Falaq
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/113.mp3
+#EXTINF:-1 tvg-logo="" group-title="Ibrahim Aldosari - Rewayat Warsh A'n Nafi' - Murattal",114 - An-Nas
+https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/114.mp3
